@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cwq_train_0",
+    "question": "Who directed the movie starring the actor born in Paris?",
+    "topic_entity": "Paris",
+    "answers": ["Bob"],
+    "graph": [
+      ["Paris", "birthplace", "Alice"],
+      ["Alice", "starring", "Film_A"],
+      ["Film_A", "directed_by", "Bob"],
+      ["Paris", "located_in", "France"],
+      ["France", "capital", "Paris"]
+    ],
+    "plan_steps": [
+      "find the actor born in Paris",
+      "find the movie starring that actor",
+      "find the director of the movie"
+    ]
+  },
+  {
+    "id": "cwq_train_1",
+    "question": "Who directed the movie starring the actor born in London?",
+    "topic_entity": "London",
+    "answers": ["Dana"],
+    "graph": [
+      ["London", "birthplace", "Carol"],
+      ["Carol", "starring", "Film_B"],
+      ["Film_B", "directed_by", "Dana"],
+      ["London", "located_in", "UK"]
+    ],
+    "plan_steps": [
+      "find the actor born in London",
+      "find the movie starring that actor",
+      "find the director of the movie"
+    ]
+  },
+  {
+    "id": "cwq_train_2",
+    "question": "Which country is Berlin located in?",
+    "topic_entity": "Berlin",
+    "answers": ["Germany"],
+    "graph": [
+      ["Berlin", "located_in", "Germany"],
+      ["Berlin", "sister_city", "Paris"]
+    ],
+    "plan_steps": [
+      "find the country where Berlin is located"
+    ]
+  },
+  {
+    "id": "cwq_train_3",
+    "question": "Who directed the movie starring the actor born in Tokyo?",
+    "topic_entity": "Tokyo",
+    "answers": ["Fiona"],
+    "graph": [
+      ["Tokyo", "birthplace", "Erin"],
+      ["Erin", "starring", "Film_C"],
+      ["Film_C", "directed_by", "Fiona"],
+      ["Tokyo", "located_in", "Japan"]
+    ],
+    "plan_steps": [
+      "find the actor born in Tokyo",
+      "find the movie starring that actor",
+      "find the director of the movie"
+    ]
+  }
+]
+

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cwq_test_0",
+    "question": "Who directed the movie starring the actor born in Madrid?",
+    "topic_entity": "Madrid",
+    "answers": ["Gina"],
+    "graph": [
+      ["Madrid", "birthplace", "Helen"],
+      ["Helen", "starring", "Film_D"],
+      ["Film_D", "directed_by", "Gina"],
+      ["Madrid", "located_in", "Spain"]
+    ],
+    "plan_steps": [
+      "find the actor born in Madrid",
+      "find the movie starring that actor",
+      "find the director of the movie"
+    ]
+  }
+]
+

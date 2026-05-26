@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cwq_valid_0",
+    "question": "Which country is Rome located in?",
+    "topic_entity": "Rome",
+    "answers": ["Italy"],
+    "graph": [
+      ["Rome", "located_in", "Italy"],
+      ["Rome", "rival_city", "Paris"]
+    ],
+    "plan_steps": [
+      "find the country where Rome is located"
+    ]
+  }
+]
+
