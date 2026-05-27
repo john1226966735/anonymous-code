@@ -1,104 +1,124 @@
-# RePlan Core Code
+# RePlan EMNLP 2026 Submission Code
 
-This directory contains a compact, runnable implementation of the core RePlan pipeline described in the paper. It is intended for anonymous review and includes a small CWQ-style sample dataset.
+This directory contains the core code used for RePlan, extracted from the actual experimental implementation. It is not a separate toy reimplementation. The main method code is under `replan_core/`.
 
-## What Is Included
+## Core Files
 
-- `replan/model.py`: dynamic latent plan generator, plan-to-guidance conversion, GNN graph propagation, entity scoring, and path recovery.
-- `replan/cli.py`: command-line entry points for planner pretraining, joint retriever training, testing, and evaluation.
-- `replan/data.py`: CWQ-style data loader.
-- `replan/eval.py`: Entity Hits@1 and answer Hits@1 evaluation.
-- `replan/text.py`: deterministic hashing text encoder used by the sample run.
-- `data/cwq_sample/`: small CWQ-style train/valid/test files.
+- `replan_core/plan_generator.py`: the 2-layer autoregressive Transformer planner.
+- `replan_core/pretrain_plan_generator.py`: planner pretraining with InfoNCE plus cosine alignment.
+- `replan_core/replan_model_v1.py`: the final RePlan retriever with residual plan projection and relation-feedback conditioning.
+- `replan_core/models.py`: the GNN layer and static/offline-plan retriever variants used for controls.
+- `replan_core/base_model.py`: training, validation, test, checkpointing, and path export wrapper.
+- `replan_core/train.py`: joint retriever training and test entry point.
+- `replan_core/regen_path.py`: path export from a trained checkpoint.
+- `replan_core/llm_rerank.py`: option-based answer-selection prompt construction and reranking interface.
+- `replan_core/load_data.py`: KGQA data loader for WebQSP/CWQ-style question subgraphs.
+- `replan_core/utils.py`: ranking metrics.
 
-The sample package uses deterministic hashing embeddings instead of downloading an external text embedding model. This keeps the reviewer run lightweight while preserving the method flow: offline plan supervision, dynamic plan-guided graph retrieval, path export, and evaluation.
+The paper's main method corresponds to `replan_model_v1.py` with `--projection_mode residual`. `replan_model.py` is retained only for the direct-projection branch used by `--projection_mode direct`.
+
+## Included Sample
+
+The directory includes a compact CWQ-format sample:
+
+- `data/CWQ/{train,dev,test}_simple.json`
+- `data/CWQ/entity_name.txt`
+- `data/CWQ/relations.txt`
+- `embedding/CWQ-*.npy`
+
+The sample is remapped to a small local entity/relation ID space so the real loader and model code can be inspected without shipping the full CWQ subgraphs and Qwen embedding files. It is for smoke testing only, not for reproducing paper numbers.
 
 ## Environment
 
-The code requires Python 3.8+ and PyTorch.
+Install the Python dependencies:
 
 ```bash
-cd EMNLP2026_submission_code
 pip install -r requirements.txt
 ```
 
-If your Python environment has conflicting user-level packages, run the commands below with `PYTHONNOUSERSITE=1`.
+The full training code uses PyTorch and `torch-scatter`. The original experiments were run with GPUs.
 
-## Run The Full Pipeline
+## Smoke Test
 
-Planner pretraining:
-
-```bash
-python -m replan.cli pretrain \
-  --data data/cwq_sample \
-  --output checkpoints/planner.pt \
-  --epochs 5
-```
-
-Joint retriever training:
+Run a lightweight check that builds the actual planner class and computes the planner pretraining loss on the included sample embeddings:
 
 ```bash
-python -m replan.cli train \
-  --data data/cwq_sample \
-  --planner-ckpt checkpoints/planner.pt \
-  --output checkpoints/replan.pt \
-  --epochs 5
+cd EMNLP2026_submission_code/replan_core
+python smoke_test.py
 ```
 
-Test-time retrieval and path export:
+Expected output:
+
+```text
+Smoke test passed.
+Sample embeddings: questions=(4, 3584), plans=(4, 4, 3584)
+...
+```
+
+To additionally check the real CWQ data loader, install `scipy` and run:
 
 ```bash
-python -m replan.cli test \
-  --data data/cwq_sample \
-  --checkpoint checkpoints/replan.pt \
-  --split test \
-  --output outputs/test_predictions.jsonl
+python check_data_loader.py
 ```
 
-Evaluation:
+## Planner Pretraining
+
+On the included sample:
 
 ```bash
-python -m replan.cli evaluate \
-  --predictions outputs/test_predictions.jsonl
+cd EMNLP2026_submission_code/replan_core
+python pretrain_plan_generator.py \
+  --dataset CWQ \
+  --emb_dir ../embedding \
+  --question_emb_dir ../embedding \
+  --plan_emb_dir ../embedding \
+  --output_ckpt results/CWQ_plan_generator_best.pt \
+  --perf_file results/CWQ_plan_generator_perf.txt \
+  --epochs 1 \
+  --batch_size 2
 ```
 
-Expected output format:
+For full experiments, replace `../embedding` and `../data/CWQ` with the complete Qwen embedding and dataset files.
 
-```json
-{
-  "Entity Hits@1": 1.0,
-  "Answer Hits@1": 1.0,
-  "N": 1
-}
-```
+## Joint Retriever Training
 
-Because the included dataset is intentionally tiny, these numbers are only a sanity check that the code path runs correctly. They are not the paper's reported benchmark results.
-
-## Data Format
-
-Each example contains:
-
-```json
-{
-  "id": "cwq_train_0",
-  "question": "Who directed the movie starring the actor born in Paris?",
-  "topic_entity": "Paris",
-  "answers": ["Bob"],
-  "graph": [["Paris", "birthplace", "Alice"], ["Alice", "starring", "Film_A"]],
-  "plan_steps": ["find the actor born in Paris", "find the movie starring that actor"]
-}
-```
-
-- `graph` is a local question subgraph represented as triples.
-- `plan_steps` are offline textual subgoals used to pretrain the latent planner.
-- During joint training and testing, the model generates latent plan embeddings internally and does not call an LLM during graph traversal.
-
-## Main Commands
+Main RePlan setting:
 
 ```bash
-python -m replan.cli pretrain --help
-python -m replan.cli train --help
-python -m replan.cli test --help
-python -m replan.cli evaluate --help
+cd EMNLP2026_submission_code/replan_core
+python train.py \
+  --dataset CWQ \
+  --emb_dir ../embedding \
+  --plan_emb_dir ../embedding \
+  --projection_mode residual \
+  --epochs 1 \
+  --n_batch 2 \
+  --gpu 0
 ```
 
+This follows the real training entry point. On machines without CUDA, use the smoke test for code inspection; the full training scripts are GPU-oriented, matching the original experiment code.
+
+## Test And Path Export
+
+After training a checkpoint:
+
+```bash
+python train.py \
+  --dataset CWQ \
+  --emb_dir ../embedding \
+  --plan_emb_dir ../embedding \
+  --projection_mode residual \
+  --test_only \
+  --gen_path \
+  --gpu 0
+```
+
+`llm_rerank.py` formats retrieved candidates and paths for answer selection. The submitted package does not include API keys.
+
+## Notes
+
+- The code in `replan_core/` is extracted from the actual RePlan experimental code.
+- The included sample data is compact and only verifies the pipeline interfaces.
+- No API keys, checkpoints, logs, or private paths are included.
+- `llm_rerank.py` can read an OpenAI key from `--api_key` or `OPENAI_API_KEY` if users choose the OpenAI backend; no key value is stored in this package.
+- If a local Python environment accidentally loads conflicting user-level packages, prefix commands with `PYTHONNOUSERSITE=1`.

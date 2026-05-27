@@ -1,0 +1,5568 @@
+m.sample_0	George Washington Colonials men's basketball
+m.sample_1	None
+m.sample_2	None
+m.sample_3	None
+m.sample_4	None
+m.sample_5	Southern Conference
+m.sample_6	None
+m.sample_7	None
+m.sample_8	None
+m.sample_9	Princeton Tigers men's basketball
+m.sample_10	None
+m.sample_11	None
+m.sample_12	George Washington University
+m.sample_13	None
+m.sample_14	Washington, D.C.
+m.sample_15	United States of America
+m.sample_16	None
+m.sample_17	None
+m.sample_18	Bridgestone Arena
+m.sample_19	None
+m.sample_20	None
+m.sample_21	1999 NCAA Men's Division I Basketball Tournament
+m.sample_22	Connecticut Huskies men's basketball
+m.sample_23	None
+m.sample_24	2006 NCAA Men's Division I Basketball Tournament
+m.sample_25	None
+m.sample_26	None
+m.sample_27	None
+m.sample_28	George Washington University School of Public Health and Health Services
+m.sample_29	Columbian College of Arts and Sciences
+m.sample_30	Division I (NCAA)
+m.sample_31	Western Athletic Conference
+m.sample_32	Power Balance Pavilion
+m.sample_33	None
+m.sample_34	Blue
+m.sample_35	None
+m.sample_36	None
+m.sample_37	None
+m.sample_38	None
+m.sample_39	None
+m.sample_40	None
+m.sample_41	Big South Conference
+m.sample_42	None
+m.sample_43	None
+m.sample_44	Atlantic Coast Conference
+m.sample_45	Duke Blue Devils men's basketball
+m.sample_46	Elliott School of International Affairs
+m.sample_47	Private university
+m.sample_48	Mike Lonergan
+m.sample_49	None
+m.sample_50	Big West Conference
+m.sample_51	None
+m.sample_52	None
+m.sample_53	None
+m.sample_54	None
+m.sample_55	George Washington University Law School
+m.sample_56	None
+m.sample_57	Greensboro Coliseum Complex
+m.sample_58	None
+m.sample_59	None
+m.sample_60	Male
+m.sample_61	Ivy League
+m.sample_62	None
+m.sample_63	None
+m.sample_64	None
+m.sample_65	Vanderbilt Commodores men's basketball
+m.sample_66	None
+m.sample_67	None
+m.sample_68	None
+m.sample_69	None
+m.sample_70	None
+m.sample_71	Southland Conference
+m.sample_72	None
+m.sample_73	Metro Atlantic Athletic Conference
+m.sample_74	None
+m.sample_75	1954 NCAA Men's Division I Basketball Tournament
+m.sample_76	None
+m.sample_77	None
+m.sample_78	Charles E. Smith Athletic Center
+m.sample_79	None
+m.sample_80	None
+m.sample_81	Tucson
+m.sample_82	None
+m.sample_83	1994 NCAA Men's Division I Basketball Tournament
+m.sample_84	None
+m.sample_85	None
+m.sample_86	George Washington Colonials football
+m.sample_87	Buff (colour)
+m.sample_88	Richmond Spiders men's basketball
+m.sample_89	Basketball
+m.sample_90	Southeastern Conference
+m.sample_91	UNC Wilmington Seahawks men's basketball
+m.sample_92	None
+m.sample_93	None
+m.sample_94	The George Washington University School of Business
+m.sample_95	VCU Rams men's basketball
+m.sample_96	Atlantic 10 Conference
+m.sample_97	None
+m.sample_98	None
+m.sample_99	La Salle Explorers men's basketball
+m.sample_100	The Summit League
+m.sample_101	None
+m.sample_102	None
+m.sample_103	Big Ten Conference
+m.sample_104	Iowa Hawkeyes men's basketball
+m.sample_105	None
+m.sample_106	None
+m.sample_107	None
+m.sample_108	None
+m.sample_109	None
+m.sample_110	None
+m.sample_111	Patriot League
+m.sample_112	Big 12 Conference
+m.sample_113	Oklahoma State Cowboys men's basketball
+m.sample_114	Charles Smith (developer)
+m.sample_115	George Washington Colonials
+m.sample_116	NC State Wolfpack men's basketball
+m.sample_117	None
+m.sample_118	Duquesne Dukes men's basketball
+m.sample_119	UAB Blazers men's basketball
+m.sample_120	None
+m.sample_121	None
+m.sample_122	None
+m.sample_123	Bowie, Maryland
+m.sample_124	None
+m.sample_125	None
+m.sample_126	None
+m.sample_127	None
+m.sample_128	None
+m.sample_129	None
+m.sample_130	None
+m.sample_131	None
+m.sample_132	None
+m.sample_133	None
+m.sample_134	Dayton Flyers men's basketball
+m.sample_135	None
+m.sample_136	None
+m.sample_137	1961 NCAA Men's Division I Basketball Tournament
+m.sample_138	None
+m.sample_139	None
+m.sample_140	None
+m.sample_141	New York City
+m.sample_142	Corcoran College of Art and Design
+m.sample_143	None
+m.sample_144	1993 NCAA Men's Division I Basketball Tournament
+m.sample_145	None
+m.sample_146	None
+m.sample_147	None
+m.sample_148	Michigan Wolverines men's basketball
+m.sample_149	2011 Great West Conference Men's Basketball Tournament
+m.sample_150	Mountain West Conference
+m.sample_151	None
+m.sample_152	Northeast Conference
+m.sample_153	None
+m.sample_154	Conference USA
+m.sample_155	George Washington University Virginia Campus
+m.sample_156	2007 NCAA Men's Division I Basketball Tournament
+m.sample_157	None
+m.sample_158	None
+m.sample_159	America East Conference
+m.sample_160	None
+m.sample_161	Durham, North Carolina
+m.sample_162	None
+m.sample_163	Colonial Athletic Association
+m.sample_164	None
+m.sample_165	None
+m.sample_166	None
+m.sample_167	None
+m.sample_168	None
+m.sample_169	None
+m.sample_170	None
+m.sample_171	None
+m.sample_172	None
+m.sample_173	None
+m.sample_174	None
+m.sample_175	Rupp Arena
+m.sample_176	None
+m.sample_177	None
+m.sample_178	None
+m.sample_179	None
+m.sample_180	None
+m.sample_181	None
+m.sample_182	None
+m.sample_183	None
+m.sample_184	None
+m.sample_185	None
+m.sample_186	George Washington University School of Engineering and Applied Science
+m.sample_187	Pacific-10 Conference
+m.sample_188	Southwestern Athletic Conference
+m.sample_189	None
+m.sample_190	Georgia Tech Yellow Jackets men's basketball
+m.sample_191	None
+m.sample_192	None
+m.sample_193	UMass Minutemen basketball
+m.sample_194	None
+m.sample_195	1996 NCAA Men's Division I Basketball Tournament
+m.sample_196	None
+m.sample_197	None
+m.sample_198	Eastern College Athletic Conference
+m.sample_199	None
+m.sample_200	None
+m.sample_201	None
+m.sample_202	Mid-American Conference
+m.sample_203	Mid-Eastern Athletic Conference
+m.sample_204	None
+m.sample_205	Border Collie
+m.sample_206	Saint Louis Billikens men's basketball
+m.sample_207	None
+m.sample_208	None
+m.sample_209	Sun Belt Conference
+m.sample_210	None
+m.sample_211	1998 NCAA Men's Division I Basketball Tournament
+m.sample_212	None
+m.sample_213	None
+m.sample_214	None
+m.sample_215	None
+m.sample_216	None
+m.sample_217	None
+m.sample_218	None
+m.sample_219	None
+m.sample_220	None
+m.sample_221	None
+m.sample_222	None
+m.sample_223	None
+m.sample_224	None
+m.sample_225	None
+m.sample_226	The George Washington University Graduate School of Education and Human Development
+m.sample_227	None
+m.sample_228	None
+m.sample_229	None
+m.sample_230	None
+m.sample_231	None
+m.sample_232	None
+m.sample_233	None
+m.sample_234	None
+m.sample_235	None
+m.sample_236	None
+m.sample_237	None
+m.sample_238	None
+m.sample_239	None
+m.sample_240	None
+m.sample_241	None
+m.sample_242	The GW Hatchet
+m.sample_243	George Washington University Medical School
+m.sample_244	None
+m.sample_245	None
+m.sample_246	None
+m.sample_247	Ohio Valley Conference
+m.sample_248	None
+m.sample_249	None
+m.sample_250	None
+m.sample_251	None
+m.sample_252	New Mexico Lobos Basketball
+m.sample_253	None
+m.sample_254	None
+m.sample_255	None
+m.sample_256	None
+m.sample_257	West Coast Conference
+m.sample_258	None
+m.sample_259	Indiana Hoosiers men's basketball
+m.sample_260	Big Sky Conference
+m.sample_261	None
+m.sample_262	Southern Jaguars
+m.sample_263	None
+m.sample_264	None
+m.sample_265	None
+m.sample_266	None
+m.sample_267	None
+m.sample_268	None
+m.sample_269	None
+m.sample_270	None
+m.sample_271	2005 NCAA Men's Division I Basketball Tournament
+m.sample_272	None
+m.sample_273	None
+m.sample_274	None
+m.sample_275	None
+m.sample_276	Mike Brey
+m.sample_277	None
+m.sample_278	Saint Joseph's Hawks men's basketball
+m.sample_279	None
+m.sample_280	None
+m.sample_281	George Mason Patriots men's basketball
+m.sample_282	None
+m.sample_283	None
+m.sample_284	College/University
+m.sample_285	None
+m.sample_286	None
+m.sample_287	None
+m.sample_288	None
+m.sample_289	None
+m.sample_290	None
+m.sample_291	None
+m.sample_292	None
+m.sample_293	None
+m.sample_294	None
+m.sample_295	None
+m.sample_296	None
+m.sample_297	None
+m.sample_298	None
+m.sample_299	None
+m.sample_300	None
+m.sample_301	None
+m.sample_302	George Washington
+m.sample_303	None
+m.sample_304	None
+m.sample_305	None
+m.sample_306	None
+m.sample_307	Gelman Library
+m.sample_308	None
+m.sample_309	None
+m.sample_310	None
+m.sample_311	None
+m.sample_312	None
+m.sample_313	None
+m.sample_314	None
+m.sample_315	None
+m.sample_316	Amway Arena
+m.sample_317	None
+m.sample_318	None
+m.sample_319	None
+m.sample_320	None
+m.sample_321	None
+m.sample_322	None
+m.sample_323	None
+m.sample_324	None
+m.sample_325	None
+m.sample_326	None
+m.sample_327	None
+m.sample_328	None
+m.sample_329	Big East Conference
+m.sample_330	None
+m.sample_331	None
+m.sample_332	None
+m.sample_333	None
+m.sample_334	None
+m.sample_335	None
+m.sample_336	None
+m.sample_337	None
+m.sample_338	None
+m.sample_339	None
+m.sample_340	None
+m.sample_341	None
+m.sample_342	None
+m.sample_343	None
+m.sample_344	None
+m.sample_345	None
+m.sample_346	None
+m.sample_347	None
+m.sample_348	None
+m.sample_349	Atlantic Sun Conference
+m.sample_350	None
+m.sample_351	None
+m.sample_352	None
+m.sample_353	None
+m.sample_354	None
+m.sample_355	Horizon League
+m.sample_356	None
+m.sample_357	None
+m.sample_358	None
+m.sample_359	None
+m.sample_360	None
+m.sample_361	None
+m.sample_362	None
+m.sample_363	None
+m.sample_364	None
+m.sample_365	None
+m.sample_366	None
+m.sample_367	None
+m.sample_368	None
+m.sample_369	None
+m.sample_370	Luther Rice
+m.sample_371	Coach (basketball)
+m.sample_372	None
+m.sample_373	None
+m.sample_374	None
+m.sample_375	None
+m.sample_376	None
+m.sample_377	None
+m.sample_378	Alpha Delta Pi
+m.sample_379	None
+m.sample_380	None
+m.sample_381	None
+m.sample_382	None
+m.sample_383	None
+m.sample_384	None
+m.sample_385	None
+m.sample_386	None
+m.sample_387	None
+m.sample_388	None
+m.sample_389	None
+m.sample_390	None
+m.sample_391	None
+m.sample_392	Missouri Valley Conference
+m.sample_393	None
+m.sample_394	None
+m.sample_395	None
+m.sample_396	None
+m.sample_397	None
+m.sample_398	None
+m.sample_399	None
+m.sample_400	None
+m.sample_401	None
+m.sample_402	None
+m.sample_403	None
+m.sample_404	None
+m.sample_405	None
+m.sample_406	None
+m.sample_407	None
+m.sample_408	None
+m.sample_409	None
+m.sample_410	None
+m.sample_411	None
+m.sample_412	None
+m.sample_413	None
+m.sample_414	None
+m.sample_415	None
+m.sample_416	None
+m.sample_417	None
+m.sample_418	None
+m.sample_419	Super Bowl
+m.sample_420	None
+m.sample_421	2000 NFL season
+m.sample_422	National Football League
+m.sample_423	Super Bowl XXXVIII
+m.sample_424	None
+m.sample_425	Super Bowl I
+m.sample_426	Al Hirt
+m.sample_427	Super Bowl XLV
+m.sample_428	Cincinnati Bengals
+m.sample_429	None
+m.sample_430	Super Bowl XXXIV
+m.sample_431	None
+m.sample_432	None
+m.sample_433	M&T Bank Stadium
+m.sample_434	Super Bowl XIV
+m.sample_435	None
+m.sample_436	None
+m.sample_437	2008 NFL season
+m.sample_438	Baltimore Ravens
+m.sample_439	None
+m.sample_440	Sun Life Stadium
+m.sample_441	Super Bowl XXXIII
+m.sample_442	Super Bowl XXV
+m.sample_443	Super Bowl XLVI
+m.sample_444	New York Giants
+m.sample_445	Super Bowl XXXVII
+m.sample_446	None
+m.sample_447	None
+m.sample_448	Tulane Stadium
+m.sample_449	Super Bowl VI
+m.sample_450	Super Bowl XXVIII
+m.sample_451	1993 NFL season
+m.sample_452	Super Bowl XLI
+m.sample_453	None
+m.sample_454	None
+m.sample_455	Kansas City Chiefs
+m.sample_456	2009 NFL season
+m.sample_457	Super Bowl XLIX
+m.sample_458	None
+m.sample_459	None
+m.sample_460	None
+m.sample_461	American Football Conference
+m.sample_462	None
+m.sample_463	None
+m.sample_464	Pittsburgh Steelers
+m.sample_465	Gold
+m.sample_466	None
+m.sample_467	None
+m.sample_468	1978 NFL season
+m.sample_469	Super Bowl XIII
+m.sample_470	None
+m.sample_471	None
+m.sample_472	None
+m.sample_473	None
+m.sample_474	Super Bowl X
+m.sample_475	Super Bowl III
+m.sample_476	None
+m.sample_477	Indianapolis Colts
+m.sample_478	None
+m.sample_479	None
+m.sample_480	1996 NFL season
+m.sample_481	Super Bowl XXVI
+m.sample_482	None
+m.sample_483	None
+m.sample_484	Super Bowl XVIII
+m.sample_485	Super Bowl XXIV
+m.sample_486	Denver Broncos
+m.sample_487	None
+m.sample_488	Super Bowl XVII
+m.sample_489	Super Bowl XX
+m.sample_490	Mercedes-Benz Superdome
+m.sample_491	None
+m.sample_492	Super Bowl XXIII
+m.sample_493	None
+m.sample_494	None
+m.sample_495	Super Bowl XII
+m.sample_496	Super Bowl XLIII
+m.sample_497	None
+m.sample_498	Super Bowl XXXII
+m.sample_499	Green Bay Packers
+m.sample_500	Super Bowl XL
+m.sample_501	Ford Field
+m.sample_502	1971 NFL season
+m.sample_503	New Orleans Saints
+m.sample_504	Black
+m.sample_505	None
+m.sample_506	American football
+m.sample_507	Oakland Raiders
+m.sample_508	None
+m.sample_509	Super Bowl XXX
+m.sample_510	Super Bowl II
+m.sample_511	Los Angeles Memorial Coliseum
+m.sample_512	Miami Dolphins
+m.sample_513	White
+m.sample_514	None
+m.sample_515	Super Bowl XI
+m.sample_516	None
+m.sample_517	None
+m.sample_518	None
+m.sample_519	None
+m.sample_520	None
+m.sample_521	2002 NFL season
+m.sample_522	Miami Orange Bowl
+m.sample_523	None
+m.sample_524	None
+m.sample_525	None
+m.sample_526	Tennessee Titans
+m.sample_527	Super Bowl XLVIII
+m.sample_528	None
+m.sample_529	Super Bowl IV
+m.sample_530	None
+m.sample_531	None
+m.sample_532	None
+m.sample_533	Super Bowl XLII
+m.sample_534	Seven Nation Army
+m.sample_535	Super Bowl XXIX
+m.sample_536	None
+m.sample_537	None
+m.sample_538	None
+m.sample_539	None
+m.sample_540	None
+m.sample_541	None
+m.sample_542	New England Patriots
+m.sample_543	None
+m.sample_544	None
+m.sample_545	None
+m.sample_546	None
+m.sample_547	2007 NFL season
+m.sample_548	None
+m.sample_549	2001 AFC Championship Game
+m.sample_550	Super Bowl XXXI
+m.sample_551	None
+m.sample_552	Proposed new 49ers stadium
+m.sample_553	None
+m.sample_554	University of Phoenix Stadium
+m.sample_555	None
+m.sample_556	None
+m.sample_557	None
+m.sample_558	None
+m.sample_559	Super Bowl XLIV
+m.sample_560	Musical composition
+m.sample_561	Super Bowl XXXV
+m.sample_562	Minnesota Vikings
+m.sample_563	Purple
+m.sample_564	None
+m.sample_565	None
+m.sample_566	Super Bowl IX
+m.sample_567	None
+m.sample_568	None
+m.sample_569	None
+m.sample_570	None
+m.sample_571	None
+m.sample_572	Philadelphia Eagles
+m.sample_573	None
+m.sample_574	1979 NFL season
+m.sample_575	Celine Dion
+m.sample_576	None
+m.sample_577	Dallas Cowboys
+m.sample_578	1973 NFL season
+m.sample_579	Super Bowl VIII
+m.sample_580	None
+m.sample_581	Tampa Bay Buccaneers
+m.sample_582	None
+m.sample_583	Arizona Cardinals
+m.sample_584	1990 NFL season
+m.sample_585	Seattle Seahawks
+m.sample_586	None
+m.sample_587	San Diego Chargers
+m.sample_588	Raymond James Stadium
+m.sample_589	1969 NFL season
+m.sample_590	None
+m.sample_591	None
+m.sample_592	None
+m.sample_593	Hubert H. Humphrey Metrodome
+m.sample_594	1998 NFL season
+m.sample_595	Super Bowl XXVII
+m.sample_596	None
+m.sample_597	None
+m.sample_598	None
+m.sample_599	None
+m.sample_600	Washington Redskins
+m.sample_601	1991 NFL season
+m.sample_602	Qualcomm Stadium
+m.sample_603	Football
+m.sample_604	Lucas Oil Stadium
+m.sample_605	Reliant Stadium
+m.sample_606	San Francisco 49ers
+m.sample_607	1980 NFL season
+m.sample_608	Super Bowl XV
+m.sample_609	None
+m.sample_610	None
+m.sample_611	Super Bowl XIX
+m.sample_612	None
+m.sample_613	None
+m.sample_614	None
+m.sample_615	None
+m.sample_616	None
+m.sample_617	None
+m.sample_618	Super Bowl XVI
+m.sample_619	Atlanta Falcons
+m.sample_620	None
+m.sample_621	None
+m.sample_622	None
+m.sample_623	None
+m.sample_624	None
+m.sample_625	None
+m.sample_626	None
+m.sample_627	None
+m.sample_628	None
+m.sample_629	Sagrada Família
+m.sample_630	None
+m.sample_631	None
+m.sample_632	None
+m.sample_633	None
+m.sample_634	Super Bowl XXXIX
+m.sample_635	None
+m.sample_636	Super Ball
+m.sample_637	Wham-O
+m.sample_638	Super Bowl XLVII
+m.sample_639	Chicago Bears
+m.sample_640	None
+m.sample_641	Super Bowl VII
+m.sample_642	The Raven
+m.sample_643	Tampa Stadium
+m.sample_644	Super Bowl XXXVI
+m.sample_645	Super Bowl V
+m.sample_646	Buffalo Bills
+m.sample_647	None
+m.sample_648	St. Louis Rams
+m.sample_649	None
+m.sample_650	None
+m.sample_651	None
+m.sample_652	None
+m.sample_653	2006 NFL season
+m.sample_654	None
+m.sample_655	None
+m.sample_656	None
+m.sample_657	None
+m.sample_658	None
+m.sample_659	None
+m.sample_660	1999 NFL season
+m.sample_661	None
+m.sample_662	None
+m.sample_663	2003 NFL season
+m.sample_664	1967 NFL season
+m.sample_665	Baltimore
+m.sample_666	None
+m.sample_667	None
+m.sample_668	New Meadowlands Stadium
+m.sample_669	None
+m.sample_670	None
+m.sample_671	None
+m.sample_672	None
+m.sample_673	None
+m.sample_674	AFC North
+m.sample_675	Jeff Pearlman
+m.sample_676	None
+m.sample_677	None
+m.sample_678	None
+m.sample_679	None
+m.sample_680	None
+m.sample_681	None
+m.sample_682	EverBank Field
+m.sample_683	None
+m.sample_684	None
+m.sample_685	None
+m.sample_686	None
+m.sample_687	None
+m.sample_688	None
+m.sample_689	None
+m.sample_690	None
+m.sample_691	None
+m.sample_692	2013 AFC Championship Game
+m.sample_693	None
+m.sample_694	None
+m.sample_695	Super Bowl XXII
+m.sample_696	None
+m.sample_697	None
+m.sample_698	None
+m.sample_699	None
+m.sample_700	None
+m.sample_701	Stanford Stadium
+m.sample_702	None
+m.sample_703	None
+m.sample_704	None
+m.sample_705	None
+m.sample_706	Montreal
+m.sample_707	None
+m.sample_708	1984 NFL season
+m.sample_709	None
+m.sample_710	2010 NFL season
+m.sample_711	None
+m.sample_712	Championship
+m.sample_713	None
+m.sample_714	1975 NFL season
+m.sample_715	1974 NFL season
+m.sample_716	Georgia Dome
+m.sample_717	1992 NFL season
+m.sample_718	New York Jets
+m.sample_719	None
+m.sample_720	None
+m.sample_721	None
+m.sample_722	None
+m.sample_723	None
+m.sample_724	None
+m.sample_725	None
+m.sample_726	Baltimore Colts
+m.sample_727	None
+m.sample_728	None
+m.sample_729	None
+m.sample_730	None
+m.sample_731	None
+m.sample_732	None
+m.sample_733	None
+m.sample_734	None
+m.sample_735	None
+m.sample_736	None
+m.sample_737	None
+m.sample_738	None
+m.sample_739	None
+m.sample_740	Rose Bowl (stadium)
+m.sample_741	None
+m.sample_742	None
+m.sample_743	None
+m.sample_744	2001 NFL season
+m.sample_745	None
+m.sample_746	None
+m.sample_747	None
+m.sample_748	None
+m.sample_749	None
+m.sample_750	None
+m.sample_751	None
+m.sample_752	Silverdome
+m.sample_753	None
+m.sample_754	None
+m.sample_755	None
+m.sample_756	None
+m.sample_757	None
+m.sample_758	None
+m.sample_759	None
+m.sample_760	None
+m.sample_761	None
+m.sample_762	None
+m.sample_763	None
+m.sample_764	None
+m.sample_765	None
+m.sample_766	None
+m.sample_767	None
+m.sample_768	1977 NFL season
+m.sample_769	None
+m.sample_770	None
+m.sample_771	None
+m.sample_772	Steve Bisciotti
+m.sample_773	None
+m.sample_774	None
+m.sample_775	None
+m.sample_776	None
+m.sample_777	None
+m.sample_778	None
+m.sample_779	AT&T Stadium
+m.sample_780	None
+m.sample_781	None
+m.sample_782	None
+m.sample_783	None
+m.sample_784	None
+m.sample_785	None
+m.sample_786	None
+m.sample_787	None
+m.sample_788	None
+m.sample_789	None
+m.sample_790	National Poetry Month
+m.sample_791	None
+m.sample_792	None
+m.sample_793	None
+m.sample_794	None
+m.sample_795	None
+m.sample_796	None
+m.sample_797	None
+m.sample_798	None
+m.sample_799	Vince Lombardi Trophy
+m.sample_800	None
+m.sample_801	None
+m.sample_802	None
+m.sample_803	None
+m.sample_804	None
+m.sample_805	None
+m.sample_806	2005 NFL season
+m.sample_807	Super Bowl XXI
+m.sample_808	1986 NFL season
+m.sample_809	None
+m.sample_810	None
+m.sample_811	Carolina Panthers
+m.sample_812	2004 NFL season
+m.sample_813	None
+m.sample_814	None
+m.sample_815	None
+m.sample_816	None
+m.sample_817	None
+m.sample_818	None
+m.sample_819	Vikings Stadium
+m.sample_820	None
+m.sample_821	None
+m.sample_822	None
+m.sample_823	None
+m.sample_824	None
+m.sample_825	None
+m.sample_826	None
+m.sample_827	None
+m.sample_828	None
+m.sample_829	None
+m.sample_830	None
+m.sample_831	None
+m.sample_832	None
+m.sample_833	None
+m.sample_834	None
+m.sample_835	None
+m.sample_836	None
+m.sample_837	None
+m.sample_838	None
+m.sample_839	2011 NFL season
+m.sample_840	1976 NFL season
+m.sample_841	None
+m.sample_842	None
+m.sample_843	1982 NFL season
+m.sample_844	None
+m.sample_845	None
+m.sample_846	None
+m.sample_847	None
+m.sample_848	None
+m.sample_849	List of Super Bowl officials
+m.sample_850	John Harbaugh
+m.sample_851	None
+m.sample_852	None
+m.sample_853	None
+m.sample_854	None
+m.sample_855	1997 NFL season
+m.sample_856	None
+m.sample_857	None
+m.sample_858	None
+m.sample_859	None
+m.sample_860	None
+m.sample_861	None
+m.sample_862	Rice Stadium
+m.sample_863	None
+m.sample_864	None
+m.sample_865	None
+m.sample_866	None
+m.sample_867	None
+m.sample_868	None
+m.sample_869	Technology
+m.sample_870	None
+m.sample_871	None
+m.sample_872	Super Bowl XXXVIII halftime show controversy
+m.sample_873	None
+m.sample_874	1972 NFL season
+m.sample_875	None
+m.sample_876	None
+m.sample_877	None
+m.sample_878	None
+m.sample_879	None
+m.sample_880	None
+m.sample_881	None
+m.sample_882	None
+m.sample_883	1970 NFL season
+m.sample_884	None
+m.sample_885	None
+m.sample_886	None
+m.sample_887	None
+m.sample_888	None
+m.sample_889	None
+m.sample_890	None
+m.sample_891	None
+m.sample_892	None
+m.sample_893	None
+m.sample_894	None
+m.sample_895	None
+m.sample_896	None
+m.sample_897	None
+m.sample_898	1960 NFL Championship Game
+m.sample_899	None
+m.sample_900	None
+m.sample_901	1981 NFL season
+m.sample_902	None
+m.sample_903	None
+m.sample_904	None
+m.sample_905	None
+m.sample_906	None
+m.sample_907	None
+m.sample_908	Los Angeles Rams
+m.sample_909	None
+m.sample_910	1985 NFL season
+m.sample_911	None
+m.sample_912	None
+m.sample_913	None
+m.sample_914	None
+m.sample_915	None
+m.sample_916	1994 NFL season
+m.sample_917	None
+m.sample_918	None
+m.sample_919	None
+m.sample_920	None
+m.sample_921	None
+m.sample_922	None
+m.sample_923	Frequency
+m.sample_924	None
+m.sample_925	None
+m.sample_926	None
+m.sample_927	1988 NFL season
+m.sample_928	None
+m.sample_929	None
+m.sample_930	1995 NFL season
+m.sample_931	None
+m.sample_932	None
+m.sample_933	None
+m.sample_934	None
+m.sample_935	None
+m.sample_936	None
+m.sample_937	None
+m.sample_938	None
+m.sample_939	None
+m.sample_940	None
+m.sample_941	None
+m.sample_942	None
+m.sample_943	1966 NFL season
+m.sample_944	None
+m.sample_945	None
+m.sample_946	1983 NFL season
+m.sample_947	None
+m.sample_948	None
+m.sample_949	None
+m.sample_950	1987 NFL season
+m.sample_951	None
+m.sample_952	None
+m.sample_953	None
+m.sample_954	None
+m.sample_955	None
+m.sample_956	None
+m.sample_957	None
+m.sample_958	None
+m.sample_959	None
+m.sample_960	None
+m.sample_961	None
+m.sample_962	None
+m.sample_963	None
+m.sample_964	1989 NFL season
+m.sample_965	None
+m.sample_966	None
+m.sample_967	None
+m.sample_968	None
+m.sample_969	None
+m.sample_970	None
+m.sample_971	None
+m.sample_972	None
+m.sample_973	None
+m.sample_974	None
+m.sample_975	None
+m.sample_976	None
+m.sample_977	1968 NFL season
+m.sample_978	None
+m.sample_979	None
+m.sample_980	None
+m.sample_981	None
+m.sample_982	None
+m.sample_983	None
+m.sample_984	None
+m.sample_985	None
+m.sample_986	None
+m.sample_987	None
+m.sample_988	None
+m.sample_989	None
+m.sample_990	None
+m.sample_991	None
+m.sample_992	Privately held company
+m.sample_993	None
+m.sample_994	None
+m.sample_995	None
+m.sample_996	None
+m.sample_997	New media art
+m.sample_998	None
+m.sample_999	None
+m.sample_1000	None
+m.sample_1001	None
+m.sample_1002	None
+m.sample_1003	None
+m.sample_1004	None
+m.sample_1005	None
+m.sample_1006	Non-fiction
+m.sample_1007	None
+m.sample_1008	None
+m.sample_1009	None
+m.sample_1010	None
+m.sample_1011	None
+m.sample_1012	None
+m.sample_1013	None
+m.sample_1014	None
+m.sample_1015	None
+m.sample_1016	None
+m.sample_1017	None
+m.sample_1018	None
+m.sample_1019	None
+m.sample_1020	None
+m.sample_1021	None
+m.sample_1022	Orange and Blue
+m.sample_1023	Emmitt Smith
+m.sample_1024	Dancing with the Stars (U.S. season 4)
+m.sample_1025	Bruno Tonioli
+m.sample_1026	Dancing with the Stars (U.S. season 3)
+m.sample_1027	None
+m.sample_1028	University of Florida
+m.sample_1029	Florida Gators football
+m.sample_1030	Vivica A. Fox
+m.sample_1031	None
+m.sample_1032	None
+m.sample_1033	None
+m.sample_1034	Cheryl Burke
+m.sample_1035	Dancing with the Stars (U.S. season 2)
+m.sample_1036	Female
+m.sample_1037	None
+m.sample_1038	None
+m.sample_1039	None
+m.sample_1040	African American
+m.sample_1041	None
+m.sample_1042	None
+m.sample_1043	Carrie Ann Inaba
+m.sample_1044	Gainesville
+m.sample_1045	Ben Hill Griffin Stadium
+m.sample_1046	Tom Bergeron
+m.sample_1047	None
+m.sample_1048	Shanna Moakler
+m.sample_1049	Obstructive sleep apnea
+m.sample_1050	None
+m.sample_1051	Gout
+m.sample_1052	None
+m.sample_1053	Ankylosing spondylitis
+m.sample_1054	Kyphosis
+m.sample_1055	None
+m.sample_1056	Kidney stone
+m.sample_1057	Hirschsprung's disease
+m.sample_1058	Edyta Śliwińska
+m.sample_1059	The Wisdom of W.E.B. Du Bois
+m.sample_1060	African diaspora
+m.sample_1061	Burn
+m.sample_1062	Dancing with the Stars (U.S. season 7)
+m.sample_1063	Cristián de la Fuente
+m.sample_1064	None
+m.sample_1065	None
+m.sample_1066	None
+m.sample_1067	Benign prostatic hyperplasia
+m.sample_1068	None
+m.sample_1069	None
+m.sample_1070	None
+m.sample_1071	None
+m.sample_1072	None
+m.sample_1073	None
+m.sample_1074	None
+m.sample_1075	Tony Dovolani
+m.sample_1076	None
+m.sample_1077	Inguinal hernia
+m.sample_1078	None
+m.sample_1079	Pensacola, Florida
+m.sample_1080	Pensacola Light
+m.sample_1081	None
+m.sample_1082	Contestant
+m.sample_1083	None
+m.sample_1084	None
+m.sample_1085	Joey Lawrence
+m.sample_1086	None
+m.sample_1087	None
+m.sample_1088	None
+m.sample_1089	None
+m.sample_1090	None
+m.sample_1091	Cheryl Burke Dance
+m.sample_1092	Actor
+m.sample_1093	None
+m.sample_1094	None
+m.sample_1095	None
+m.sample_1096	Stuttering
+m.sample_1097	None
+m.sample_1098	Attention deficit hyperactivity disorder
+m.sample_1099	None
+m.sample_1100	Ashly DelGrosso
+m.sample_1101	Dancer
+m.sample_1102	Dancing with the Stars (U.S. season 5)
+m.sample_1103	None
+m.sample_1104	Parkinson's disease
+m.sample_1105	Alcohol abuse
+m.sample_1106	None
+m.sample_1107	Dancing with the Stars (U.S. TV series)
+m.sample_1108	None
+m.sample_1109	Spanish Language
+m.sample_1110	Maksim Chmerkovskiy
+m.sample_1111	None
+m.sample_1112	Non-Hodgkin lymphoma
+m.sample_1113	Hard Knocks (TV series)
+m.sample_1114	None
+m.sample_1115	Abdominal aortic aneurysm
+m.sample_1116	Transient ischemic attack
+m.sample_1117	None
+m.sample_1118	Len Goodman
+m.sample_1119	Athlete
+m.sample_1120	None
+m.sample_1121	None
+m.sample_1122	None
+m.sample_1123	None
+m.sample_1124	Willa Ford
+m.sample_1125	None
+m.sample_1126	Vive Targi Kielce
+m.sample_1127	Will Muschamp
+m.sample_1128	None
+m.sample_1129	None
+m.sample_1130	None
+m.sample_1131	None
+m.sample_1132	None
+m.sample_1133	Alopecia
+m.sample_1134	Syphilis
+m.sample_1135	None
+m.sample_1136	None
+m.sample_1137	Harry Hamlin
+m.sample_1138	None
+m.sample_1139	None
+m.sample_1140	None
+m.sample_1141	None
+m.sample_1142	None
+m.sample_1143	None
+m.sample_1144	None
+m.sample_1145	None
+m.sample_1146	Running back
+m.sample_1147	None
+m.sample_1148	None
+m.sample_1149	None
+m.sample_1150	Louis Van Amstel
+m.sample_1151	Patricia Southall
+m.sample_1152	None
+m.sample_1153	None
+m.sample_1154	None
+m.sample_1155	None
+m.sample_1156	Bladder cancer
+m.sample_1157	None
+m.sample_1158	American football player
+m.sample_1159	Jerry Springer
+m.sample_1160	Emory Smith
+m.sample_1161	None
+m.sample_1162	Autism
+m.sample_1163	None
+m.sample_1164	None
+m.sample_1165	Black History Month
+m.sample_1166	Sara Evans
+m.sample_1167	None
+m.sample_1168	Liver tumor
+m.sample_1169	None
+m.sample_1170	None
+m.sample_1171	Monday Night Football (How I Met Your Mother)
+m.sample_1172	None
+m.sample_1173	None
+m.sample_1174	None
+m.sample_1175	None
+m.sample_1176	None
+m.sample_1177	Hodgkin's lymphoma
+m.sample_1178	Pro Football Hall of Fame
+m.sample_1179	None
+m.sample_1180	None
+m.sample_1181	Hypospadias
+m.sample_1182	Football
+m.sample_1183	None
+m.sample_1184	None
+m.sample_1185	Harlem Renaissance
+m.sample_1186	The Approaching 100th Anniversary of the Harlem Renaissance (part 2)
+m.sample_1187	Kym Johnson
+m.sample_1188	Afro-American peoples of the Americas
+m.sample_1189	None
+m.sample_1190	Samantha Harris
+m.sample_1191	Marriage
+m.sample_1192	None
+m.sample_1193	None
+m.sample_1194	Myocardial ischemia
+m.sample_1195	None
+m.sample_1196	None
+m.sample_1197	Aortic aneurysm
+m.sample_1198	Cardiovascular disease
+m.sample_1199	None
+m.sample_1200	Multiple myeloma
+m.sample_1201	None
+m.sample_1202	Florida
+m.sample_1203	None
+m.sample_1204	None
+m.sample_1205	None
+m.sample_1206	Corneal abrasion
+m.sample_1207	None
+m.sample_1208	None
+m.sample_1209	Wayne Newton
+m.sample_1210	None
+m.sample_1211	Orange (colour)
+m.sample_1212	English Language
+m.sample_1213	American English
+m.sample_1214	None
+m.sample_1215	None
+m.sample_1216	Seborrhoeic dermatitis
+m.sample_1217	San Francisco
+m.sample_1218	None
+m.sample_1219	None
+m.sample_1220	None
+m.sample_1221	None
+m.sample_1222	None
+m.sample_1223	Pensacola Gulf Coast Regional Airport
+m.sample_1224	None
+m.sample_1225	Pyloric stenosis
+m.sample_1226	None
+m.sample_1227	Stroke
+m.sample_1228	Savannah Tribune
+m.sample_1229	None
+m.sample_1230	Albert and Alberta Gator
+m.sample_1231	None
+m.sample_1232	None
+m.sample_1233	None
+m.sample_1234	Kawasaki disease
+m.sample_1235	Actinic keratosis
+m.sample_1236	None
+m.sample_1237	None
+m.sample_1238	None
+m.sample_1239	Harlem Renaissance Way Down South
+m.sample_1240	None
+m.sample_1241	Best Record-Breaking Performance ESPY Award
+m.sample_1242	Epilepsy
+m.sample_1243	African American Review
+m.sample_1244	None
+m.sample_1245	Nick Kosovich
+m.sample_1246	None
+m.sample_1247	None
+m.sample_1248	None
+m.sample_1249	None
+m.sample_1250	None
+m.sample_1251	None
+m.sample_1252	None
+m.sample_1253	None
+m.sample_1254	None
+m.sample_1255	None
+m.sample_1256	None
+m.sample_1257	Super Bowl Most Valuable Player Award
+m.sample_1258	None
+m.sample_1259	None
+m.sample_1260	None
+m.sample_1261	None
+m.sample_1262	None
+m.sample_1263	None
+m.sample_1264	None
+m.sample_1265	Irving, Texas
+m.sample_1266	None
+m.sample_1267	None
+m.sample_1268	Esophageal cancer
+m.sample_1269	Tucker Carlson
+m.sample_1270	None
+m.sample_1271	None
+m.sample_1272	None
+m.sample_1273	Gilles Marini
+m.sample_1274	None
+m.sample_1275	None
+m.sample_1276	None
+m.sample_1277	None
+m.sample_1278	None
+m.sample_1279	None
+m.sample_1280	heart attack
+m.sample_1281	Ventricular tachycardia
+m.sample_1282	None
+m.sample_1283	None
+m.sample_1284	None
+m.sample_1285	None
+m.sample_1286	None
+m.sample_1287	Elena Grinenko
+m.sample_1288	None
+m.sample_1289	None
+m.sample_1290	Meningococcal disease
+m.sample_1291	Karina Smirnoff
+m.sample_1292	None
+m.sample_1293	Pancreatic cancer
+m.sample_1294	Maurice Greene (athlete)
+m.sample_1295	None
+m.sample_1296	None
+m.sample_1297	Gastritis
+m.sample_1298	Lupus erythematosus
+m.sample_1299	None
+m.sample_1300	None
+m.sample_1301	None
+m.sample_1302	None
+m.sample_1303	None
+m.sample_1304	None
+m.sample_1305	Mario Lopez
+m.sample_1306	None
+m.sample_1307	None
+m.sample_1308	None
+m.sample_1309	None
+m.sample_1310	Retroperitoneal fibrosis
+m.sample_1311	Foreign-born Afro-Americans
+m.sample_1312	None
+m.sample_1313	None
+m.sample_1314	None
+m.sample_1315	None
+m.sample_1316	Best NFL Player ESPY Award
+m.sample_1317	None
+m.sample_1318	None
+m.sample_1319	None
+m.sample_1320	None
+m.sample_1321	Him/Herself
+m.sample_1322	Saenger Theatre (Pensacola, Florida)
+m.sample_1323	None
+m.sample_1324	None
+m.sample_1325	Monique Coleman
+m.sample_1326	None
+m.sample_1327	None
+m.sample_1328	None
+m.sample_1329	None
+m.sample_1330	None
+m.sample_1331	None
+m.sample_1332	None
+m.sample_1333	Asthma
+m.sample_1334	Emphysema
+m.sample_1335	None
+m.sample_1336	None
+m.sample_1337	None
+m.sample_1338	Reality television
+m.sample_1339	None
+m.sample_1340	None
+m.sample_1341	Drew Lachey
+m.sample_1342	None
+m.sample_1343	None
+m.sample_1344	None
+m.sample_1345	None
+m.sample_1346	None
+m.sample_1347	None
+m.sample_1348	None
+m.sample_1349	None
+m.sample_1350	Antisocial personality disorder
+m.sample_1351	None
+m.sample_1352	None
+m.sample_1353	None
+m.sample_1354	None
+m.sample_1355	None
+m.sample_1356	None
+m.sample_1357	None
+m.sample_1358	None
+m.sample_1359	None
+m.sample_1360	None
+m.sample_1361	None
+m.sample_1362	None
+m.sample_1363	None
+m.sample_1364	Southern United States
+m.sample_1365	None
+m.sample_1366	None
+m.sample_1367	None
+m.sample_1368	None
+m.sample_1369	None
+m.sample_1370	None
+m.sample_1371	None
+m.sample_1372	None
+m.sample_1373	Florida Gators
+m.sample_1374	None
+m.sample_1375	None
+m.sample_1376	None
+m.sample_1377	Golfer's elbow
+m.sample_1378	Escambia County, Florida
+m.sample_1379	None
+m.sample_1380	None
+m.sample_1381	Tetralogy of Fallot
+m.sample_1382	None
+m.sample_1383	Ectodermal dysplasia
+m.sample_1384	Prostate cancer
+m.sample_1385	None
+m.sample_1386	None
+m.sample_1387	None
+m.sample_1388	None
+m.sample_1389	None
+m.sample_1390	None
+m.sample_1391	None
+m.sample_1392	Amyotrophic lateral sclerosis
+m.sample_1393	None
+m.sample_1394	None
+m.sample_1395	None
+m.sample_1396	None
+m.sample_1397	None
+m.sample_1398	Louisiana Creole French
+m.sample_1399	None
+m.sample_1400	None
+m.sample_1401	None
+m.sample_1402	None
+m.sample_1403	None
+m.sample_1404	Haitian Creole
+m.sample_1405	None
+m.sample_1406	None
+m.sample_1407	None
+m.sample_1408	None
+m.sample_1409	None
+m.sample_1410	None
+m.sample_1411	None
+m.sample_1412	None
+m.sample_1413	None
+m.sample_1414	None
+m.sample_1415	None
+m.sample_1416	None
+m.sample_1417	None
+m.sample_1418	None
+m.sample_1419	None
+m.sample_1420	None
+m.sample_1421	None
+m.sample_1422	None
+m.sample_1423	None
+m.sample_1424	None
+m.sample_1425	None
+m.sample_1426	None
+m.sample_1427	Ian Ziering
+m.sample_1428	Gullah language
+m.sample_1429	None
+m.sample_1430	Scleroderma
+m.sample_1431	Athlete's foot
+m.sample_1432	None
+m.sample_1433	Paget's disease of bone
+m.sample_1434	None
+m.sample_1435	None
+m.sample_1436	Urethritis
+m.sample_1437	None
+m.sample_1438	Eclampsia
+m.sample_1439	None
+m.sample_1440	None
+m.sample_1441	None
+m.sample_1442	None
+m.sample_1443	Acute myeloid leukemia
+m.sample_1444	None
+m.sample_1445	None
+m.sample_1446	None
+m.sample_1447	Club foot
+m.sample_1448	None
+m.sample_1449	None
+m.sample_1450	Escambia High School
+m.sample_1451	None
+m.sample_1452	None
+m.sample_1453	None
+m.sample_1454	None
+m.sample_1455	None
+m.sample_1456	None
+m.sample_1457	Leprosy
+m.sample_1458	None
+m.sample_1459	None
+m.sample_1460	None
+m.sample_1461	None
+m.sample_1462	None
+m.sample_1463	None
+m.sample_1464	None
+m.sample_1465	None
+m.sample_1466	None
+m.sample_1467	None
+m.sample_1468	None
+m.sample_1469	None
+m.sample_1470	None
+m.sample_1471	None
+m.sample_1472	None
+m.sample_1473	Alumni association
+m.sample_1474	None
+m.sample_1475	None
+m.sample_1476	None
+m.sample_1477	None
+m.sample_1478	National Football League Most Valuable Player Award
+m.sample_1479	None
+m.sample_1480	None
+m.sample_1481	None
+m.sample_1482	None
+m.sample_1483	None
+m.sample_1484	None
+m.sample_1485	Non-gonococcal urethritis
+m.sample_1486	None
+m.sample_1487	Barrett's esophagus
+m.sample_1488	None
+m.sample_1489	None
+m.sample_1490	Urolithiasis
+m.sample_1491	None
+m.sample_1492	Nephrotic syndrome
+m.sample_1493	None
+m.sample_1494	None
+m.sample_1495	None
+m.sample_1496	None
+m.sample_1497	None
+m.sample_1498	None
+m.sample_1499	None
+m.sample_1500	Sickle-cell disease
+m.sample_1501	None
+m.sample_1502	None
+m.sample_1503	Pectus excavatum
+m.sample_1504	None
+m.sample_1505	African American Vernacular English
+m.sample_1506	None
+m.sample_1507	None
+m.sample_1508	None
+m.sample_1509	None
+m.sample_1510	None
+m.sample_1511	None
+m.sample_1512	None
+m.sample_1513	None
+m.sample_1514	None
+m.sample_1515	None
+m.sample_1516	None
+m.sample_1517	Dupuytren's contracture
+m.sample_1518	None
+m.sample_1519	African American National Biography Project
+m.sample_1520	University of Florida Alumni Association
+m.sample_1521	None
+m.sample_1522	Kaposi's sarcoma
+m.sample_1523	None
+m.sample_1524	None
+m.sample_1525	None
+m.sample_1526	Pensacola Civic Center
+m.sample_1527	None
+m.sample_1528	None
+m.sample_1529	Uterine fibroid
+m.sample_1530	None
+m.sample_1531	None
+m.sample_1532	None
+m.sample_1533	None
+m.sample_1534	None
+m.sample_1535	None
+m.sample_1536	None
+m.sample_1537	None
+m.sample_1538	None
+m.sample_1539	Anaplastic thyroid cancer
+m.sample_1540	None
+m.sample_1541	None
+m.sample_1542	None
+m.sample_1543	None
+m.sample_1544	None
+m.sample_1545	None
+m.sample_1546	None
+m.sample_1547	None
+m.sample_1548	None
+m.sample_1549	None
+m.sample_1550	None
+m.sample_1551	None
+m.sample_1552	Sebaceous cyst
+m.sample_1553	None
+m.sample_1554	None
+m.sample_1555	None
+m.sample_1556	None
+m.sample_1557	None
+m.sample_1558	None
+m.sample_1559	None
+m.sample_1560	None
+m.sample_1561	None
+m.sample_1562	None
+m.sample_1563	None
+m.sample_1564	None
+m.sample_1565	None
+m.sample_1566	None
+m.sample_1567	None
+m.sample_1568	None
+m.sample_1569	None
+m.sample_1570	None
+m.sample_1571	None
+m.sample_1572	None
+m.sample_1573	None
+m.sample_1574	None
+m.sample_1575	None
+m.sample_1576	None
+m.sample_1577	None
+m.sample_1578	None
+m.sample_1579	None
+m.sample_1580	Tupac Shakur
+m.sample_1581	None
+m.sample_1582	None
+m.sample_1583	None
+m.sample_1584	None
+m.sample_1585	None
+m.sample_1586	None
+m.sample_1587	None
+m.sample_1588	None
+m.sample_1589	Documentary film
+m.sample_1590	T.I.
+m.sample_1591	Gangsta rap
+m.sample_1592	Saturday Night Live (season 21)
+m.sample_1593	None
+m.sample_1594	Fabolous
+m.sample_1595	None
+m.sample_1596	None
+m.sample_1597	None
+m.sample_1598	Maya Keyes
+m.sample_1599	None
+m.sample_1600	None
+m.sample_1601	Biggie & Tupac
+m.sample_1602	50 Cent
+m.sample_1603	Salli Richardson
+m.sample_1604	None
+m.sample_1605	None
+m.sample_1606	None
+m.sample_1607	Keyshia Cole
+m.sample_1608	Chicago
+m.sample_1609	None
+m.sample_1610	None
+m.sample_1611	None
+m.sample_1612	Outlawz
+m.sample_1613	Kanye West
+m.sample_1614	None
+m.sample_1615	M.I.A. (artist)
+m.sample_1616	None
+m.sample_1617	None
+m.sample_1618	None
+m.sample_1619	Runnin' (From tha Police)
+m.sample_1620	None
+m.sample_1621	Manhattan
+m.sample_1622	None
+m.sample_1623	None
+m.sample_1624	None
+m.sample_1625	None
+m.sample_1626	Pink (singer)
+m.sample_1627	Dance music
+m.sample_1628	None
+m.sample_1629	None
+m.sample_1630	Screenwriter
+m.sample_1631	E-40
+m.sample_1632	West Coast hip hop
+m.sample_1633	None
+m.sample_1634	None
+m.sample_1635	None
+m.sample_1636	None
+m.sample_1637	Mark Knight (musician)
+m.sample_1638	Record producer
+m.sample_1639	Quincy Jones
+m.sample_1640	John Legend
+m.sample_1641	Ras Kass
+m.sample_1642	Rapper
+m.sample_1643	None
+m.sample_1644	Def Jam's How to Be a Player
+m.sample_1645	Independent film
+m.sample_1646	Death Row Records
+m.sample_1647	None
+m.sample_1648	None
+m.sample_1649	None
+m.sample_1650	Michael Jackson
+m.sample_1651	Usher
+m.sample_1652	Soopafly
+m.sample_1653	None
+m.sample_1654	Tray Deee
+m.sample_1655	None
+m.sample_1656	Madonna
+m.sample_1657	None
+m.sample_1658	Jon H. Else
+m.sample_1659	None
+m.sample_1660	None
+m.sample_1661	None
+m.sample_1662	I Ain't Mad at Cha
+m.sample_1663	Dr. Dre
+m.sample_1664	None
+m.sample_1665	None
+m.sample_1666	None
+m.sample_1667	None
+m.sample_1668	Luniz
+m.sample_1669	Big Pun
+m.sample_1670	Snoop Dogg
+m.sample_1671	Jennifer Lopez
+m.sample_1672	None
+m.sample_1673	None
+m.sample_1674	Nelly
+m.sample_1675	Eve (entertainer)
+m.sample_1676	None
+m.sample_1677	None
+m.sample_1678	'03 Bonnie & Clyde
+m.sample_1679	Contemporary R&B
+m.sample_1680	Bruce Hornsby
+m.sample_1681	Musician
+m.sample_1682	None
+m.sample_1683	None
+m.sample_1684	None
+m.sample_1685	None
+m.sample_1686	None
+m.sample_1687	Bernie Taupin
+m.sample_1688	Songwriter
+m.sample_1689	Kelly Clarkson
+m.sample_1690	Common (entertainer)
+m.sample_1691	Alternative hip hop
+m.sample_1692	None
+m.sample_1693	Jay-Z
+m.sample_1694	DMX (rapper)
+m.sample_1695	None
+m.sample_1696	Mariah Carey
+m.sample_1697	Soul music
+m.sample_1698	Ashanti (entertainer)
+m.sample_1699	None
+m.sample_1700	None
+m.sample_1701	Ballistic trauma
+m.sample_1702	None
+m.sample_1703	Bobby Caldwell
+m.sample_1704	None
+m.sample_1705	None
+m.sample_1706	None
+m.sample_1707	Baby Bash
+m.sample_1708	None
+m.sample_1709	Above the Rim
+m.sample_1710	None
+m.sample_1711	None
+m.sample_1712	None
+m.sample_1713	Me Against the World
+m.sample_1714	None
+m.sample_1715	Lil Jon
+m.sample_1716	None
+m.sample_1717	None
+m.sample_1718	Rihanna
+m.sample_1719	None
+m.sample_1720	None
+m.sample_1721	None
+m.sample_1722	None
+m.sample_1723	Letter 2 My Unborn
+m.sample_1724	Ahmad (rapper)
+m.sample_1725	Los Angeles
+m.sample_1726	None
+m.sample_1727	None
+m.sample_1728	None
+m.sample_1729	None
+m.sample_1730	Money-B
+m.sample_1731	None
+m.sample_1732	None
+m.sample_1733	Las Vegas
+m.sample_1734	Trey Songz
+m.sample_1735	None
+m.sample_1736	None
+m.sample_1737	Shaggy (musician)
+m.sample_1738	Studio album
+m.sample_1739	None
+m.sample_1740	1997 Soul Train Music Awards
+m.sample_1741	None
+m.sample_1742	None
+m.sample_1743	Ghetto Gospel
+m.sample_1744	Mary J. Blige
+m.sample_1745	Tupac: Resurrection
+m.sample_1746	None
+m.sample_1747	Changes (Tupac Shakur song)
+m.sample_1748	Song
+m.sample_1749	None
+m.sample_1750	None
+m.sample_1751	None
+m.sample_1752	Nas
+m.sample_1753	Until the End of Time (Tupac Shakur song)
+m.sample_1754	None
+m.sample_1755	None
+m.sample_1756	The Notorious B.I.G.
+m.sample_1757	None
+m.sample_1758	None
+m.sample_1759	None
+m.sample_1760	None
+m.sample_1761	None
+m.sample_1762	None
+m.sample_1763	None
+m.sample_1764	Pop music
+m.sample_1765	Bunny DeBarge
+m.sample_1766	Jermaine Dupri
+m.sample_1767	None
+m.sample_1768	None
+m.sample_1769	Stargate (production team)
+m.sample_1770	None
+m.sample_1771	None
+m.sample_1772	None
+m.sample_1773	Untouchable (Tupac Shakur song)
+m.sample_1774	None
+m.sample_1775	None
+m.sample_1776	None
+m.sample_1777	None
+m.sample_1778	Pimp C
+m.sample_1779	None
+m.sample_1780	None
+m.sample_1781	Richard Page (musician)
+m.sample_1782	None
+m.sample_1783	Aaliyah
+m.sample_1784	None
+m.sample_1785	None
+m.sample_1786	Anarchic comedy film
+m.sample_1787	Fergie (singer)
+m.sample_1788	None
+m.sample_1789	None
+m.sample_1790	All Eyez on Me
+m.sample_1791	Chingy
+m.sample_1792	None
+m.sample_1793	None
+m.sample_1794	Kurupt
+m.sample_1795	Hip hop music
+m.sample_1796	None
+m.sample_1797	Katy Perry
+m.sample_1798	Mýa
+m.sample_1799	Trapped (Tupac Shakur song)
+m.sample_1800	None
+m.sample_1801	California
+m.sample_1802	Tupac: Assassination
+m.sample_1803	Mark Burg
+m.sample_1804	None
+m.sample_1805	None
+m.sample_1806	Young Buck
+m.sample_1807	Shock G
+m.sample_1808	None
+m.sample_1809	Beyoncé Knowles
+m.sample_1810	Mark Brown
+m.sample_1811	N.O.R.E.
+m.sample_1812	None
+m.sample_1813	None
+m.sample_1814	None
+m.sample_1815	Redman (rapper)
+m.sample_1816	Amaru Entertainment
+m.sample_1817	None
+m.sample_1818	None
+m.sample_1819	Kid Cudi
+m.sample_1820	I Get Around (Tupac Shakur song)
+m.sample_1821	None
+m.sample_1822	None
+m.sample_1823	None
+m.sample_1824	None
+m.sample_1825	Dear Mama
+m.sample_1826	None
+m.sample_1827	None
+m.sample_1828	Dead Homiez
+m.sample_1829	None
+m.sample_1830	None
+m.sample_1831	Baby Don't Cry (Keep Ya Head Up II)
+m.sample_1832	None
+m.sample_1833	Sean Combs
+m.sample_1834	None
+m.sample_1835	None
+m.sample_1836	None
+m.sample_1837	Lil' Kim
+m.sample_1838	None
+m.sample_1839	None
+m.sample_1840	None
+m.sample_1841	None
+m.sample_1842	None
+m.sample_1843	None
+m.sample_1844	Chris Brown (American entertainer)
+m.sample_1845	None
+m.sample_1846	None
+m.sample_1847	None
+m.sample_1848	None
+m.sample_1849	None
+m.sample_1850	Mark Morrison
+m.sample_1851	None
+m.sample_1852	None
+m.sample_1853	None
+m.sample_1854	Marin County
+m.sample_1855	Fat Joe
+m.sample_1856	East Coast hip hop
+m.sample_1857	None
+m.sample_1858	None
+m.sample_1859	None
+m.sample_1860	None
+m.sample_1861	2 of Amerikaz Most Wanted
+m.sample_1862	One Day at a Time (Em's Version)
+m.sample_1863	None
+m.sample_1864	Music
+m.sample_1865	None
+m.sample_1866	Bobby V
+m.sample_1867	None
+m.sample_1868	MTV Video Music Award for Best Editing
+m.sample_1869	Alicia Keys
+m.sample_1870	Rapcore
+m.sample_1871	Cusco
+m.sample_1872	Cuzco Region
+m.sample_1873	Bruce Fisher
+m.sample_1874	None
+m.sample_1875	None
+m.sample_1876	None
+m.sample_1877	None
+m.sample_1878	Trina
+m.sample_1879	None
+m.sample_1880	None
+m.sample_1881	Styles P
+m.sample_1882	None
+m.sample_1883	None
+m.sample_1884	Gang Related
+m.sample_1885	None
+m.sample_1886	None
+m.sample_1887	Master P
+m.sample_1888	None
+m.sample_1889	None
+m.sample_1890	Thug Life: Volume 1
+m.sample_1891	None
+m.sample_1892	None
+m.sample_1893	Nate Dogg
+m.sample_1894	None
+m.sample_1895	Afeni Shakur
+m.sample_1896	None
+m.sample_1897	None
+m.sample_1898	None
+m.sample_1899	Interscope Records
+m.sample_1900	None
+m.sample_1901	Pac's Life (song)
+m.sample_1902	None
+m.sample_1903	None
+m.sample_1904	None
+m.sample_1905	Twista
+m.sample_1906	None
+m.sample_1907	None
+m.sample_1908	None
+m.sample_1909	Jada Pinkett Smith
+m.sample_1910	None
+m.sample_1911	Yung Joc
+m.sample_1912	Activist
+m.sample_1913	Social activist
+m.sample_1914	None
+m.sample_1915	Scarface (rapper)
+m.sample_1916	Prince (musician)
+m.sample_1917	None
+m.sample_1918	None
+m.sample_1919	None
+m.sample_1920	WC (rapper)
+m.sample_1921	Eminem
+m.sample_1922	Hardcore hip hop
+m.sample_1923	None
+m.sample_1924	None
+m.sample_1925	None
+m.sample_1926	None
+m.sample_1927	None
+m.sample_1928	None
+m.sample_1929	None
+m.sample_1930	None
+m.sample_1931	None
+m.sample_1932	None
+m.sample_1933	None
+m.sample_1934	None
+m.sample_1935	None
+m.sample_1936	None
+m.sample_1937	Young Lay
+m.sample_1938	None
+m.sample_1939	G-Unit
+m.sample_1940	None
+m.sample_1941	None
+m.sample_1942	Johnny "J"
+m.sample_1943	Ying Yang Twins
+m.sample_1944	Too Short
+m.sample_1945	Ne-Yo
+m.sample_1946	None
+m.sample_1947	None
+m.sample_1948	Ja Rule
+m.sample_1949	None
+m.sample_1950	None
+m.sample_1951	None
+m.sample_1952	None
+m.sample_1953	None
+m.sample_1954	None
+m.sample_1955	None
+m.sample_1956	None
+m.sample_1957	So Many Tears
+m.sample_1958	None
+m.sample_1959	Akon
+m.sample_1960	None
+m.sample_1961	Big L
+m.sample_1962	None
+m.sample_1963	None
+m.sample_1964	None
+m.sample_1965	Paul Laurence Dunbar High School
+m.sample_1966	Weezer
+m.sample_1967	Roger Troutman
+m.sample_1968	None
+m.sample_1969	None
+m.sample_1970	If My Homie Calls
+m.sample_1971	None
+m.sample_1972	Daniel Bedingfield
+m.sample_1973	None
+m.sample_1974	None
+m.sample_1975	None
+m.sample_1976	Hip hop film
+m.sample_1977	Boys Noize
+m.sample_1978	Gwen Stefani
+m.sample_1979	Gridlock'd
+m.sample_1980	None
+m.sample_1981	Single (music)
+m.sample_1982	None
+m.sample_1983	None
+m.sample_1984	None
+m.sample_1985	None
+m.sample_1986	The Rose That Grew from Concrete
+m.sample_1987	Cardiac dysrhythmia
+m.sample_1988	Cardiac arrest
+m.sample_1989	Holler If Ya Hear Me
+m.sample_1990	None
+m.sample_1991	No Doubt
+m.sample_1992	None
+m.sample_1993	Vocals
+m.sample_1994	Jagged Edge (band)
+m.sample_1995	None
+m.sample_1996	Game (rapper)
+m.sample_1997	None
+m.sample_1998	None
+m.sample_1999	None
+m.sample_2000	None
+m.sample_2001	42nd Grammy Awards
+m.sample_2002	None
+m.sample_2003	Hit 'Em Up
+m.sample_2004	None
+m.sample_2005	Trick Daddy
+m.sample_2006	Joe (singer)
+m.sample_2007	None
+m.sample_2008	None
+m.sample_2009	None
+m.sample_2010	Do for Love
+m.sample_2011	None
+m.sample_2012	None
+m.sample_2013	None
+m.sample_2014	None
+m.sample_2015	Bow Wow
+m.sample_2016	Kelis
+m.sample_2017	Electro music
+m.sample_2018	Cherish (group)
+m.sample_2019	None
+m.sample_2020	Lady Gaga
+m.sample_2021	None
+m.sample_2022	K-Ci & JoJo
+m.sample_2023	None
+m.sample_2024	G-funk
+m.sample_2025	Nerdcore hip hop
+m.sample_2026	Leon Ware
+m.sample_2027	Ciara
+m.sample_2028	Tupac: Resurrection (soundtrack)
+m.sample_2029	None
+m.sample_2030	None
+m.sample_2031	Busta Rhymes
+m.sample_2032	Still Ballin' (Tupac Shakur song)
+m.sample_2033	Missy Elliott
+m.sample_2034	None
+m.sample_2035	None
+m.sample_2036	None
+m.sample_2037	None
+m.sample_2038	None
+m.sample_2039	None
+m.sample_2040	None
+m.sample_2041	None
+m.sample_2042	None
+m.sample_2043	None
+m.sample_2044	None
+m.sample_2045	Ghetto Fabulous (song)
+m.sample_2046	Bun B
+m.sample_2047	None
+m.sample_2048	None
+m.sample_2049	None
+m.sample_2050	Daz Dillinger
+m.sample_2051	None
+m.sample_2052	George Clinton
+m.sample_2053	None
+m.sample_2054	Marin City, California
+m.sample_2055	Area code 415
+m.sample_2056	None
+m.sample_2057	None
+m.sample_2058	None
+m.sample_2059	None
+m.sample_2060	None
+m.sample_2061	None
+m.sample_2062	None
+m.sample_2063	Civil rights activist
+m.sample_2064	I Wonder If Heaven Got a Ghetto
+m.sample_2065	Lloyd (singer)
+m.sample_2066	None
+m.sample_2067	None
+m.sample_2068	None
+m.sample_2069	None
+m.sample_2070	Electro hop
+m.sample_2071	None
+m.sample_2072	Pussycat Dolls
+m.sample_2073	Ice Cube
+m.sample_2074	None
+m.sample_2075	Political hip hop
+m.sample_2076	Public Enemy (group)
+m.sample_2077	Tom Arnold (actor)
+m.sample_2078	None
+m.sample_2079	None
+m.sample_2080	None
+m.sample_2081	None
+m.sample_2082	How Do U Want It
+m.sample_2083	None
+m.sample_2084	None
+m.sample_2085	None
+m.sample_2086	None
+m.sample_2087	Unconditional Love (Tupac Shakur song)
+m.sample_2088	None
+m.sample_2089	None
+m.sample_2090	None
+m.sample_2091	Keep Ya Head Up
+m.sample_2092	None
+m.sample_2093	Coldplay
+m.sample_2094	Justin Timberlake
+m.sample_2095	None
+m.sample_2096	None
+m.sample_2097	None
+m.sample_2098	None
+m.sample_2099	None
+m.sample_2100	None
+m.sample_2101	Russell Simmons
+m.sample_2102	None
+m.sample_2103	None
+m.sample_2104	None
+m.sample_2105	None
+m.sample_2106	None
+m.sample_2107	None
+m.sample_2108	Savage (rapper)
+m.sample_2109	Thugz Mansion
+m.sample_2110	None
+m.sample_2111	None
+m.sample_2112	None
+m.sample_2113	None
+m.sample_2114	None
+m.sample_2115	Anthony Hamilton (musician)
+m.sample_2116	Tyga
+m.sample_2117	Nothing but Trouble
+m.sample_2118	None
+m.sample_2119	None
+m.sample_2120	None
+m.sample_2121	None
+m.sample_2122	AZ (rapper)
+m.sample_2123	None
+m.sample_2124	None
+m.sample_2125	None
+m.sample_2126	None
+m.sample_2127	Juvenile (rapper)
+m.sample_2128	None
+m.sample_2129	None
+m.sample_2130	Lupe Fiasco
+m.sample_2131	None
+m.sample_2132	None
+m.sample_2133	None
+m.sample_2134	None
+m.sample_2135	None
+m.sample_2136	None
+m.sample_2137	United Kingdom
+m.sample_2138	None
+m.sample_2139	None
+m.sample_2140	None
+m.sample_2141	None
+m.sample_2142	None
+m.sample_2143	Bad Azz (rapper)
+m.sample_2144	Lil Wayne
+m.sample_2145	Toni Braxton
+m.sample_2146	None
+m.sample_2147	None
+m.sample_2148	Joe Sample
+m.sample_2149	None
+m.sample_2150	Biographical film
+m.sample_2151	None
+m.sample_2152	None
+m.sample_2153	None
+m.sample_2154	Young Chris
+m.sample_2155	None
+m.sample_2156	None
+m.sample_2157	Just Blaze
+m.sample_2158	Gorilla Zoe
+m.sample_2159	None
+m.sample_2160	Freestyle: The Art of Rhyme
+m.sample_2161	Rockumentary
+m.sample_2162	None
+m.sample_2163	None
+m.sample_2164	None
+m.sample_2165	1996 Soul Train Music Awards
+m.sample_2166	Mark Atkins (musician)
+m.sample_2167	None
+m.sample_2168	None
+m.sample_2169	None
+m.sample_2170	Kidada Jones
+m.sample_2171	None
+m.sample_2172	None
+m.sample_2173	None
+m.sample_2174	None
+m.sample_2175	Destiny's Child
+m.sample_2176	None
+m.sample_2177	None
+m.sample_2178	None
+m.sample_2179	Elton John
+m.sample_2180	Smooth (singer)
+m.sample_2181	None
+m.sample_2182	Damian Marley
+m.sample_2183	Reggae
+m.sample_2184	Jadakiss
+m.sample_2185	None
+m.sample_2186	Boys Like Girls
+m.sample_2187	Hail Mary (2Pac song)
+m.sample_2188	None
+m.sample_2189	TLC (band)
+m.sample_2190	None
+m.sample_2191	Túpac Amaru
+m.sample_2192	None
+m.sample_2193	None
+m.sample_2194	Jon B.
+m.sample_2195	California Love
+m.sample_2196	Larry Troutman
+m.sample_2197	Runnin' (Dying to Live)
+m.sample_2198	None
+m.sample_2199	Bubba Sparxxx
+m.sample_2200	Urban contemporary
+m.sample_2201	Sean Paul
+m.sample_2202	None
+m.sample_2203	None
+m.sample_2204	None
+m.sample_2205	None
+m.sample_2206	None
+m.sample_2207	None
+m.sample_2208	None
+m.sample_2209	None
+m.sample_2210	None
+m.sample_2211	Murder Was the Case
+m.sample_2212	None
+m.sample_2213	None
+m.sample_2214	None
+m.sample_2215	None
+m.sample_2216	Young Jeezy
+m.sample_2217	Ray Luv
+m.sample_2218	None
+m.sample_2219	Flo Rida
+m.sample_2220	None
+m.sample_2221	Lil Mama
+m.sample_2222	Businessperson
+m.sample_2223	Cradle to the Grave
+m.sample_2224	None
+m.sample_2225	Assault
+m.sample_2226	Lee Morgan
+m.sample_2227	None
+m.sample_2228	Mario Winans
+m.sample_2229	Rock music
+m.sample_2230	None
+m.sample_2231	None
+m.sample_2232	None
+m.sample_2233	None
+m.sample_2234	None
+m.sample_2235	Thugs Get Lonely Too
+m.sample_2236	None
+m.sample_2237	None
+m.sample_2238	Juice
+m.sample_2239	Paramount Pictures
+m.sample_2240	None
+m.sample_2241	None
+m.sample_2242	Shirley Murdock
+m.sample_2243	Temptations (song)
+m.sample_2244	None
+m.sample_2245	None
+m.sample_2246	Ant Banks
+m.sample_2247	None
+m.sample_2248	Lil' Flip
+m.sample_2249	None
+m.sample_2250	None
+m.sample_2251	None
+m.sample_2252	Bryan-Michael Cox
+m.sample_2253	None
+m.sample_2254	None
+m.sample_2255	None
+m.sample_2256	Justin Bieber
+m.sample_2257	None
+m.sample_2258	None
+m.sample_2259	R. Kelly
+m.sample_2260	None
+m.sample_2261	None
+m.sample_2262	None
+m.sample_2263	None
+m.sample_2264	None
+m.sample_2265	None
+m.sample_2266	None
+m.sample_2267	None
+m.sample_2268	None
+m.sample_2269	None
+m.sample_2270	None
+m.sample_2271	None
+m.sample_2272	None
+m.sample_2273	Lumidee
+m.sample_2274	None
+m.sample_2275	Natasha Bedingfield
+m.sample_2276	Rich Boy
+m.sample_2277	None
+m.sample_2278	None
+m.sample_2279	None
+m.sample_2280	None
+m.sample_2281	None
+m.sample_2282	None
+m.sample_2283	None
+m.sample_2284	Until the End of Time (album)
+m.sample_2285	None
+m.sample_2286	None
+m.sample_2287	None
+m.sample_2288	None
+m.sample_2289	None
+m.sample_2290	None
+m.sample_2291	Beanie Sigel
+m.sample_2292	None
+m.sample_2293	None
+m.sample_2294	None
+m.sample_2295	None
+m.sample_2296	None
+m.sample_2297	None
+m.sample_2298	None
+m.sample_2299	Britney Spears
+m.sample_2300	None
+m.sample_2301	MC Breed
+m.sample_2302	None
+m.sample_2303	None
+m.sample_2304	None
+m.sample_2305	None
+m.sample_2306	None
+m.sample_2307	Kilo Ali
+m.sample_2308	None
+m.sample_2309	Manco Inca Yupanqui
+m.sample_2310	None
+m.sample_2311	None
+m.sample_2312	None
+m.sample_2313	None
+m.sample_2314	None
+m.sample_2315	None
+m.sample_2316	Soulshock
+m.sample_2317	None
+m.sample_2318	112 (band)
+m.sample_2319	None
+m.sample_2320	None
+m.sample_2321	None
+m.sample_2322	None
+m.sample_2323	None
+m.sample_2324	None
+m.sample_2325	None
+m.sample_2326	None
+m.sample_2327	None
+m.sample_2328	Bizzy Bone
+m.sample_2329	None
+m.sample_2330	None
+m.sample_2331	Beef (documentary)
+m.sample_2332	None
+m.sample_2333	None
+m.sample_2334	Grammy Award for Best Rap Solo Performance
+m.sample_2335	None
+m.sample_2336	Tupac
+m.sample_2337	None
+m.sample_2338	None
+m.sample_2339	None
+m.sample_2340	None
+m.sample_2341	None
+m.sample_2342	None
+m.sample_2343	None
+m.sample_2344	None
+m.sample_2345	None
+m.sample_2346	None
+m.sample_2347	None
+m.sample_2348	None
+m.sample_2349	None
+m.sample_2350	None
+m.sample_2351	None
+m.sample_2352	Respiratory failure
+m.sample_2353	Sudden infant death syndrome
+m.sample_2354	Benzino
+m.sample_2355	None
+m.sample_2356	None
+m.sample_2357	None
+m.sample_2358	Three 6 Mafia
+m.sample_2359	None
+m.sample_2360	None
+m.sample_2361	None
+m.sample_2362	None
+m.sample_2363	The rose that grew from concrete
+m.sample_2364	None
+m.sample_2365	None
+m.sample_2366	None
+m.sample_2367	None
+m.sample_2368	East Harlem
+m.sample_2369	None
+m.sample_2370	None
+m.sample_2371	Larry Blackmon
+m.sample_2372	Lauren Lazin
+m.sample_2373	None
+m.sample_2374	None
+m.sample_2375	None
+m.sample_2376	None
+m.sample_2377	None
+m.sample_2378	OutKast
+m.sample_2379	The All-American Rejects
+m.sample_2380	MTV Video Music Award for Best Rap Video
+m.sample_2381	None
+m.sample_2382	Stevie Wonder
+m.sample_2383	None
+m.sample_2384	None
+m.sample_2385	None
+m.sample_2386	Bullet
+m.sample_2387	Crime fiction
+m.sample_2388	Writer
+m.sample_2389	J-Flexx
+m.sample_2390	None
+m.sample_2391	None
+m.sample_2392	None
+m.sample_2393	None
+m.sample_2394	None
+m.sample_2395	Christian Monzon
+m.sample_2396	None
+m.sample_2397	None
+m.sample_2398	None
+m.sample_2399	None
+m.sample_2400	None
+m.sample_2401	Funkmaster Flex
+m.sample_2402	None
+m.sample_2403	Tupac
+m.sample_2404	None
+m.sample_2405	None
+m.sample_2406	Peedi Peedi
+m.sample_2407	None
+m.sample_2408	None
+m.sample_2409	None
+m.sample_2410	None
+m.sample_2411	None
+m.sample_2412	None
+m.sample_2413	None
+m.sample_2414	None
+m.sample_2415	None
+m.sample_2416	None
+m.sample_2417	Bishop
+m.sample_2418	Leona Lewis
+m.sample_2419	MTV
+m.sample_2420	None
+m.sample_2421	Greatest Hits (Tupac Shakur album)
+m.sample_2422	Album
+m.sample_2423	None
+m.sample_2424	None
+m.sample_2425	None
+m.sample_2426	Clinton Correctional Facility
+m.sample_2427	None
+m.sample_2428	None
+m.sample_2429	None
+m.sample_2430	None
+m.sample_2431	The Fray
+m.sample_2432	Terror Squad (group)
+m.sample_2433	None
+m.sample_2434	None
+m.sample_2435	None
+m.sample_2436	None
+m.sample_2437	None
+m.sample_2438	None
+m.sample_2439	None
+m.sample_2440	None
+m.sample_2441	None
+m.sample_2442	None
+m.sample_2443	None
+m.sample_2444	None
+m.sample_2445	None
+m.sample_2446	None
+m.sample_2447	None
+m.sample_2448	None
+m.sample_2449	None
+m.sample_2450	None
+m.sample_2451	Garry Shider
+m.sample_2452	None
+m.sample_2453	None
+m.sample_2454	None
+m.sample_2455	Underground hip hop
+m.sample_2456	None
+m.sample_2457	None
+m.sample_2458	None
+m.sample_2459	None
+m.sample_2460	Digital Underground
+m.sample_2461	None
+m.sample_2462	None
+m.sample_2463	None
+m.sample_2464	None
+m.sample_2465	None
+m.sample_2466	Junior M.A.F.I.A.
+m.sample_2467	None
+m.sample_2468	None
+m.sample_2469	Poetic Justice
+m.sample_2470	None
+m.sample_2471	None
+m.sample_2472	None
+m.sample_2473	None
+m.sample_2474	None
+m.sample_2475	None
+m.sample_2476	Flyleaf
+m.sample_2477	None
+m.sample_2478	None
+m.sample_2479	None
+m.sample_2480	Tupac Amaru Shakur Center for the Arts
+m.sample_2481	None
+m.sample_2482	None
+m.sample_2483	Poet
+m.sample_2484	None
+m.sample_2485	None
+m.sample_2486	None
+m.sample_2487	None
+m.sample_2488	J-Kwon
+m.sample_2489	None
+m.sample_2490	None
+m.sample_2491	None
+m.sample_2492	None
+m.sample_2493	None
+m.sample_2494	None
+m.sample_2495	None
+m.sample_2496	The Black Eyed Peas
+m.sample_2497	None
+m.sample_2498	None
+m.sample_2499	None
+m.sample_2500	Charles Fleischer
+m.sample_2501	None
+m.sample_2502	None
+m.sample_2503	None
+m.sample_2504	Brenda's Got a Baby
+m.sample_2505	None
+m.sample_2506	None
+m.sample_2507	Funky Aztecs
+m.sample_2508	None
+m.sample_2509	None
+m.sample_2510	None
+m.sample_2511	None
+m.sample_2512	None
+m.sample_2513	None
+m.sample_2514	None
+m.sample_2515	None
+m.sample_2516	None
+m.sample_2517	None
+m.sample_2518	Green Day
+m.sample_2519	MTV2
+m.sample_2520	None
+m.sample_2521	Cascada
+m.sample_2522	None
+m.sample_2523	None
+m.sample_2524	None
+m.sample_2525	None
+m.sample_2526	None
+m.sample_2527	None
+m.sample_2528	None
+m.sample_2529	Big Syke
+m.sample_2530	None
+m.sample_2531	None
+m.sample_2532	None
+m.sample_2533	None
+m.sample_2534	None
+m.sample_2535	None
+m.sample_2536	None
+m.sample_2537	None
+m.sample_2538	None
+m.sample_2539	None
+m.sample_2540	None
+m.sample_2541	None
+m.sample_2542	None
+m.sample_2543	None
+m.sample_2544	None
+m.sample_2545	None
+m.sample_2546	None
+m.sample_2547	Nina Sky
+m.sample_2548	None
+m.sample_2549	None
+m.sample_2550	Organization founder
+m.sample_2551	None
+m.sample_2552	NAACP Image Award for Outstanding Actor in a Motion Picture
+m.sample_2553	Murder
+m.sample_2554	Trae
+m.sample_2555	None
+m.sample_2556	None
+m.sample_2557	None
+m.sample_2558	None
+m.sample_2559	None
+m.sample_2560	None
+m.sample_2561	Latin hip hop
+m.sample_2562	None
+m.sample_2563	None
+m.sample_2564	Mopreme Shakur
+m.sample_2565	None
+m.sample_2566	None
+m.sample_2567	None
+m.sample_2568	Playa Cardz Right
+m.sample_2569	None
+m.sample_2570	None
+m.sample_2571	None
+m.sample_2572	None
+m.sample_2573	Nick Broomfield
+m.sample_2574	None
+m.sample_2575	None
+m.sample_2576	None
+m.sample_2577	None
+m.sample_2578	None
+m.sample_2579	None
+m.sample_2580	None
+m.sample_2581	D12
+m.sample_2582	None
+m.sample_2583	None
+m.sample_2584	Omillio Sparks
+m.sample_2585	None
+m.sample_2586	None
+m.sample_2587	None
+m.sample_2588	None
+m.sample_2589	None
+m.sample_2590	None
+m.sample_2591	None
+m.sample_2592	None
+m.sample_2593	None
+m.sample_2594	None
+m.sample_2595	None
+m.sample_2596	None
+m.sample_2597	None
+m.sample_2598	None
+m.sample_2599	Lady Antebellum
+m.sample_2600	None
+m.sample_2601	None
+m.sample_2602	None
+m.sample_2603	None
+m.sample_2604	None
+m.sample_2605	None
+m.sample_2606	None
+m.sample_2607	Tupac
+m.sample_2608	None
+m.sample_2609	None
+m.sample_2610	None
+m.sample_2611	None
+m.sample_2612	None
+m.sample_2613	Mr. Cheeks
+m.sample_2614	None
+m.sample_2615	None
+m.sample_2616	None
+m.sample_2617	None
+m.sample_2618	None
+m.sample_2619	None
+m.sample_2620	None
+m.sample_2621	None
+m.sample_2622	Tha Dogg Pound
+m.sample_2623	None
+m.sample_2624	JoJo
+m.sample_2625	None
+m.sample_2626	None
+m.sample_2627	None
+m.sample_2628	None
+m.sample_2629	Bone Thugs-n-Harmony
+m.sample_2630	None
+m.sample_2631	None
+m.sample_2632	None
+m.sample_2633	None
+m.sample_2634	None
+m.sample_2635	None
+m.sample_2636	N.E.R.D
+m.sample_2637	None
+m.sample_2638	Defense (military)
+m.sample_2639	None
+m.sample_2640	None
+m.sample_2641	None
+m.sample_2642	None
+m.sample_2643	None
+m.sample_2644	None
+m.sample_2645	None
+m.sample_2646	None
+m.sample_2647	None
+m.sample_2648	None
+m.sample_2649	504 Boyz
+m.sample_2650	None
+m.sample_2651	None
+m.sample_2652	None
+m.sample_2653	C-Bo
+m.sample_2654	Pacific Time Zone
+m.sample_2655	None
+m.sample_2656	None
+m.sample_2657	None
+m.sample_2658	None
+m.sample_2659	Hyphy
+m.sample_2660	None
+m.sample_2661	None
+m.sample_2662	None
+m.sample_2663	None
+m.sample_2664	Screwball comedy film
+m.sample_2665	None
+m.sample_2666	None
+m.sample_2667	Black Rob
+m.sample_2668	None
+m.sample_2669	None
+m.sample_2670	None
+m.sample_2671	None
+m.sample_2672	None
+m.sample_2673	YoungBloodZ
+m.sample_2674	None
+m.sample_2675	None
+m.sample_2676	None
+m.sample_2677	None
+m.sample_2678	None
+m.sample_2679	None
+m.sample_2680	None
+m.sample_2681	None
+m.sample_2682	None
+m.sample_2683	Mac Mall
+m.sample_2684	None
+m.sample_2685	None
+m.sample_2686	None
+m.sample_2687	None
+m.sample_2688	None
+m.sample_2689	None
+m.sample_2690	None
+m.sample_2691	None
+m.sample_2692	38th Grammy Awards
+m.sample_2693	None
+m.sample_2694	None
+m.sample_2695	None
+m.sample_2696	None
+m.sample_2697	None
+m.sample_2698	None
+m.sample_2699	Túpac Amaru II
+m.sample_2700	None
+m.sample_2701	None
+m.sample_2702	None
+m.sample_2703	None
+m.sample_2704	None
+m.sample_2705	Fugees
+m.sample_2706	Eazy-E
+m.sample_2707	None
+m.sample_2708	None
+m.sample_2709	None
+m.sample_2710	None
+m.sample_2711	None
+m.sample_2712	None
+m.sample_2713	Papa'z Song
+m.sample_2714	None
+m.sample_2715	Ryan Star
+m.sample_2716	None
+m.sample_2717	None
+m.sample_2718	None
+m.sample_2719	None
+m.sample_2720	None
+m.sample_2721	None
+m.sample_2722	None
+m.sample_2723	None
+m.sample_2724	None
+m.sample_2725	None
+m.sample_2726	None
+m.sample_2727	None
+m.sample_2728	None
+m.sample_2729	None
+m.sample_2730	None
+m.sample_2731	None
+m.sample_2732	None
+m.sample_2733	None
+m.sample_2734	None
+m.sample_2735	None
+m.sample_2736	Skrillex
+m.sample_2737	None
+m.sample_2738	Stand-up comedy
+m.sample_2739	None
+m.sample_2740	Gunshot
+m.sample_2741	None
+m.sample_2742	None
+m.sample_2743	None
+m.sample_2744	None
+m.sample_2745	Young Noble
+m.sample_2746	None
+m.sample_2747	None
+m.sample_2748	Makaveli Branded Clothing
+m.sample_2749	None
+m.sample_2750	Poetry
+m.sample_2751	None
+m.sample_2752	None
+m.sample_2753	None
+m.sample_2754	None
+m.sample_2755	None
+m.sample_2756	None
+m.sample_2757	None
+m.sample_2758	None
+m.sample_2759	Ms. Jade
+m.sample_2760	None
+m.sample_2761	Dem Franchize Boyz
+m.sample_2762	None
+m.sample_2763	None
+m.sample_2764	Choking
+m.sample_2765	None
+m.sample_2766	None
+m.sample_2767	None
+m.sample_2768	None
+m.sample_2769	None
+m.sample_2770	Smile (Scarface song)
+m.sample_2771	None
+m.sample_2772	Rock City Angels
+m.sample_2773	None
+m.sample_2774	None
+m.sample_2775	None
+m.sample_2776	None
+m.sample_2777	None
+m.sample_2778	Suge Knight
+m.sample_2779	None
+m.sample_2780	None
+m.sample_2781	None
+m.sample_2782	None
+m.sample_2783	None
+m.sample_2784	None
+m.sample_2785	None
+m.sample_2786	None
+m.sample_2787	None
+m.sample_2788	None
+m.sample_2789	Art
+m.sample_2790	None
+m.sample_2791	None
+m.sample_2792	Hussein Fatal
+m.sample_2793	None
+m.sample_2794	None
+m.sample_2795	None
+m.sample_2796	None
+m.sample_2797	None
+m.sample_2798	None
+m.sample_2799	None
+m.sample_2800	None
+m.sample_2801	Ray Bryant
+m.sample_2802	None
+m.sample_2803	None
+m.sample_2804	None
+m.sample_2805	Grammy Award for Best Rap Performance by a Duo or Group
+m.sample_2806	None
+m.sample_2807	Danity Kane
+m.sample_2808	None
+m.sample_2809	None
+m.sample_2810	None
+m.sample_2811	None
+m.sample_2812	None
+m.sample_2813	None
+m.sample_2814	None
+m.sample_2815	None
+m.sample_2816	None
+m.sample_2817	None
+m.sample_2818	None
+m.sample_2819	None
+m.sample_2820	None
+m.sample_2821	None
+m.sample_2822	None
+m.sample_2823	None
+m.sample_2824	None
+m.sample_2825	Haley James Scott
+m.sample_2826	None
+m.sample_2827	None
+m.sample_2828	None
+m.sample_2829	None
+m.sample_2830	None
+m.sample_2831	None
+m.sample_2832	None
+m.sample_2833	None
+m.sample_2834	None
+m.sample_2835	None
+m.sample_2836	None
+m.sample_2837	None
+m.sample_2838	Steve George (keyboardist)
+m.sample_2839	Wanted Dead or Alive (Tupac Shakur song)
+m.sample_2840	Mister Cee
+m.sample_2841	None
+m.sample_2842	None
+m.sample_2843	None
+m.sample_2844	None
+m.sample_2845	None
+m.sample_2846	None
+m.sample_2847	None
+m.sample_2848	None
+m.sample_2849	None
+m.sample_2850	None
+m.sample_2851	Baltimore School for the Arts
+m.sample_2852	Erotic asphyxiation
+m.sample_2853	None
+m.sample_2854	None
+m.sample_2855	None
+m.sample_2856	None
+m.sample_2857	None
+m.sample_2858	None
+m.sample_2859	None
+m.sample_2860	None
+m.sample_2861	None
+m.sample_2862	None
+m.sample_2863	None
+m.sample_2864	None
+m.sample_2865	None
+m.sample_2866	De La Soul
+m.sample_2867	None
+m.sample_2868	None
+m.sample_2869	None
+m.sample_2870	None
+m.sample_2871	None
+m.sample_2872	None
+m.sample_2873	None
+m.sample_2874	None
+m.sample_2875	None
+m.sample_2876	None
+m.sample_2877	None
+m.sample_2878	None
+m.sample_2879	None
+m.sample_2880	None
+m.sample_2881	None
+m.sample_2882	None
+m.sample_2883	None
+m.sample_2884	None
+m.sample_2885	None
+m.sample_2886	Grammy Award for Best Rap Album
+m.sample_2887	None
+m.sample_2888	None
+m.sample_2889	None
+m.sample_2890	Trillville
+m.sample_2891	None
+m.sample_2892	None
+m.sample_2893	None
+m.sample_2894	None
+m.sample_2895	None
+m.sample_2896	None
+m.sample_2897	None
+m.sample_2898	None
+m.sample_2899	None
+m.sample_2900	None
+m.sample_2901	None
+m.sample_2902	None
+m.sample_2903	None
+m.sample_2904	None
+m.sample_2905	None
+m.sample_2906	None
+m.sample_2907	None
+m.sample_2908	None
+m.sample_2909	None
+m.sample_2910	None
+m.sample_2911	None
+m.sample_2912	None
+m.sample_2913	None
+m.sample_2914	None
+m.sample_2915	Spice 1
+m.sample_2916	None
+m.sample_2917	None
+m.sample_2918	None
+m.sample_2919	None
+m.sample_2920	None
+m.sample_2921	None
+m.sample_2922	Lumberton, North Carolina
+m.sample_2923	None
+m.sample_2924	None
+m.sample_2925	None
+m.sample_2926	None
+m.sample_2927	None
+m.sample_2928	None
+m.sample_2929	None
+m.sample_2930	None
+m.sample_2931	None
+m.sample_2932	American Music Awards of 1997
+m.sample_2933	None
+m.sample_2934	Soul Train Music Award for Best Rap – Album
+m.sample_2935	None
+m.sample_2936	None
+m.sample_2937	New York metropolitan area
+m.sample_2938	None
+m.sample_2939	None
+m.sample_2940	None
+m.sample_2941	None
+m.sample_2942	None
+m.sample_2943	None
+m.sample_2944	39th Grammy Awards
+m.sample_2945	True crime
+m.sample_2946	None
+m.sample_2947	None
+m.sample_2948	None
+m.sample_2949	None
+m.sample_2950	None
+m.sample_2951	None
+m.sample_2952	None
+m.sample_2953	None
+m.sample_2954	None
+m.sample_2955	None
+m.sample_2956	MTV Films
+m.sample_2957	The Pharcyde
+m.sample_2958	None
+m.sample_2959	None
+m.sample_2960	None
+m.sample_2961	None
+m.sample_2962	None
+m.sample_2963	None
+m.sample_2964	None
+m.sample_2965	Celebrity
+m.sample_2966	None
+m.sample_2967	None
+m.sample_2968	None
+m.sample_2969	None
+m.sample_2970	None
+m.sample_2971	None
+m.sample_2972	Chicano rap
+m.sample_2973	None
+m.sample_2974	None
+m.sample_2975	None
+m.sample_2976	None
+m.sample_2977	None
+m.sample_2978	None
+m.sample_2979	None
+m.sample_2980	None
+m.sample_2981	None
+m.sample_2982	None
+m.sample_2983	None
+m.sample_2984	None
+m.sample_2985	Romance film
+m.sample_2986	None
+m.sample_2987	None
+m.sample_2988	None
+m.sample_2989	None
+m.sample_2990	None
+m.sample_2991	None
+m.sample_2992	None
+m.sample_2993	None
+m.sample_2994	None
+m.sample_2995	None
+m.sample_2996	None
+m.sample_2997	Tamalpais High School
+m.sample_2998	None
+m.sample_2999	None
+m.sample_3000	None
+m.sample_3001	None
+m.sample_3002	None
+m.sample_3003	None
+m.sample_3004	None
+m.sample_3005	None
+m.sample_3006	None
+m.sample_3007	None
+m.sample_3008	None
+m.sample_3009	None
+m.sample_3010	None
+m.sample_3011	Compilation album
+m.sample_3012	None
+m.sample_3013	None
+m.sample_3014	None
+m.sample_3015	None
+m.sample_3016	None
+m.sample_3017	None
+m.sample_3018	None
+m.sample_3019	None
+m.sample_3020	None
+m.sample_3021	None
+m.sample_3022	None
+m.sample_3023	None
+m.sample_3024	None
+m.sample_3025	None
+m.sample_3026	None
+m.sample_3027	None
+m.sample_3028	None
+m.sample_3029	None
+m.sample_3030	None
+m.sample_3031	Political activist
+m.sample_3032	None
+m.sample_3033	None
+m.sample_3034	None
+m.sample_3035	None
+m.sample_3036	None
+m.sample_3037	None
+m.sample_3038	None
+m.sample_3039	None
+m.sample_3040	None
+m.sample_3041	None
+m.sample_3042	None
+m.sample_3043	Brett Wallace
+m.sample_3044	None
+m.sample_3045	None
+m.sample_3046	None
+m.sample_3047	None
+m.sample_3048	None
+m.sample_3049	None
+m.sample_3050	None
+m.sample_3051	None
+m.sample_3052	None
+m.sample_3053	None
+m.sample_3054	None
+m.sample_3055	None
+m.sample_3056	None
+m.sample_3057	None
+m.sample_3058	None
+m.sample_3059	None
+m.sample_3060	None
+m.sample_3061	None
+m.sample_3062	Soul Train Music Award for Best R&B/Soul Album of the Year
+m.sample_3063	None
+m.sample_3064	None
+m.sample_3065	None
+m.sample_3066	None
+m.sample_3067	None
+m.sample_3068	None
+m.sample_3069	None
+m.sample_3070	None
+m.sample_3071	None
+m.sample_3072	None
+m.sample_3073	None
+m.sample_3074	None
+m.sample_3075	None
+m.sample_3076	None
+m.sample_3077	None
+m.sample_3078	None
+m.sample_3079	None
+m.sample_3080	None
+m.sample_3081	None
+m.sample_3082	None
+m.sample_3083	None
+m.sample_3084	None
+m.sample_3085	None
+m.sample_3086	None
+m.sample_3087	None
+m.sample_3088	None
+m.sample_3089	None
+m.sample_3090	None
+m.sample_3091	Talk radio
+m.sample_3092	Super Cat
+m.sample_3093	None
+m.sample_3094	None
+m.sample_3095	None
+m.sample_3096	None
+m.sample_3097	N2Deep
+m.sample_3098	None
+m.sample_3099	None
+m.sample_3100	None
+m.sample_3101	None
+m.sample_3102	None
+m.sample_3103	None
+m.sample_3104	None
+m.sample_3105	None
+m.sample_3106	None
+m.sample_3107	None
+m.sample_3108	None
+m.sample_3109	None
+m.sample_3110	None
+m.sample_3111	None
+m.sample_3112	None
+m.sample_3113	None
+m.sample_3114	None
+m.sample_3115	None
+m.sample_3116	None
+m.sample_3117	None
+m.sample_3118	None
+m.sample_3119	None
+m.sample_3120	None
+m.sample_3121	Sex comedy
+m.sample_3122	None
+m.sample_3123	None
+m.sample_3124	None
+m.sample_3125	None
+m.sample_3126	None
+m.sample_3127	None
+m.sample_3128	Strangling
+m.sample_3129	None
+m.sample_3130	None
+m.sample_3131	None
+m.sample_3132	None
+m.sample_3133	None
+m.sample_3134	None
+m.sample_3135	None
+m.sample_3136	None
+m.sample_3137	None
+m.sample_3138	None
+m.sample_3139	None
+m.sample_3140	None
+m.sample_3141	Phoenix
+m.sample_3142	None
+m.sample_3143	None
+m.sample_3144	None
+m.sample_3145	None
+m.sample_3146	None
+m.sample_3147	None
+m.sample_3148	None
+m.sample_3149	None
+m.sample_3150	None
+m.sample_3151	None
+m.sample_3152	None
+m.sample_3153	None
+m.sample_3154	None
+m.sample_3155	None
+m.sample_3156	None
+m.sample_3157	None
+m.sample_3158	None
+m.sample_3159	None
+m.sample_3160	None
+m.sample_3161	None
+m.sample_3162	None
+m.sample_3163	None
+m.sample_3164	None
+m.sample_3165	None
+m.sample_3166	None
+m.sample_3167	None
+m.sample_3168	None
+m.sample_3169	None
+m.sample_3170	None
+m.sample_3171	None
+m.sample_3172	None
+m.sample_3173	None
+m.sample_3174	United States Dollar
+m.sample_3175	None
+m.sample_3176	None
+m.sample_3177	None
+m.sample_3178	None
+m.sample_3179	None
+m.sample_3180	None
+m.sample_3181	None
+m.sample_3182	None
+m.sample_3183	None
+m.sample_3184	None
+m.sample_3185	None
+m.sample_3186	None
+m.sample_3187	None
+m.sample_3188	None
+m.sample_3189	None
+m.sample_3190	None
+m.sample_3191	None
+m.sample_3192	None
+m.sample_3193	None
+m.sample_3194	None
+m.sample_3195	None
+m.sample_3196	None
+m.sample_3197	None
+m.sample_3198	None
+m.sample_3199	None
+m.sample_3200	None
+m.sample_3201	None
+m.sample_3202	None
+m.sample_3203	None
+m.sample_3204	None
+m.sample_3205	None
+m.sample_3206	None
+m.sample_3207	None
+m.sample_3208	None
+m.sample_3209	None
+m.sample_3210	None
+m.sample_3211	None
+m.sample_3212	None
+m.sample_3213	None
+m.sample_3214	None
+m.sample_3215	None
+m.sample_3216	None
+m.sample_3217	None
+m.sample_3218	None
+m.sample_3219	None
+m.sample_3220	Incarceration
+m.sample_3221	None
+m.sample_3222	None
+m.sample_3223	None
+m.sample_3224	None
+m.sample_3225	None
+m.sample_3226	None
+m.sample_3227	None
+m.sample_3228	None
+m.sample_3229	None
+m.sample_3230	None
+m.sample_3231	None
+m.sample_3232	Social issues
+m.sample_3233	None
+m.sample_3234	None
+m.sample_3235	None
+m.sample_3236	None
+m.sample_3237	None
+m.sample_3238	None
+m.sample_3239	None
+m.sample_3240	None
+m.sample_3241	None
+m.sample_3242	None
+m.sample_3243	None
+m.sample_3244	Hurricane Chris (rapper)
+m.sample_3245	None
+m.sample_3246	None
+m.sample_3247	None
+m.sample_3248	None
+m.sample_3249	None
+m.sample_3250	None
+m.sample_3251	None
+m.sample_3252	None
+m.sample_3253	None
+m.sample_3254	The Geto Boys (album)
+m.sample_3255	Soul Train Music Award for Best R&B/Soul or Rap Music Video
+m.sample_3256	None
+m.sample_3257	None
+m.sample_3258	None
+m.sample_3259	None
+m.sample_3260	None
+m.sample_3261	None
+m.sample_3262	None
+m.sample_3263	None
+m.sample_3264	None
+m.sample_3265	None
+m.sample_3266	None
+m.sample_3267	None
+m.sample_3268	None
+m.sample_3269	None
+m.sample_3270	None
+m.sample_3271	KZON
+m.sample_3272	None
+m.sample_3273	None
+m.sample_3274	None
+m.sample_3275	None
+m.sample_3276	None
+m.sample_3277	None
+m.sample_3278	None
+m.sample_3279	None
+m.sample_3280	None
+m.sample_3281	Cold case (criminology)
+m.sample_3282	None
+m.sample_3283	Paperback
+m.sample_3284	None
+m.sample_3285	None
+m.sample_3286	Truck driver
+m.sample_3287	None
+m.sample_3288	None
+m.sample_3289	None
+m.sample_3290	None
+m.sample_3291	None
+m.sample_3292	None
+m.sample_3293	None
+m.sample_3294	None
+m.sample_3295	None
+m.sample_3296	None
+m.sample_3297	None
+m.sample_3298	None
+m.sample_3299	Activism
+m.sample_3300	None
+m.sample_3301	None
+m.sample_3302	None
+m.sample_3303	None
+m.sample_3304	Big City Rock
+m.sample_3305	None
+m.sample_3306	None
+m.sample_3307	None
+m.sample_3308	None
+m.sample_3309	None
+m.sample_3310	None
+m.sample_3311	None
+m.sample_3312	None
+m.sample_3313	None
+m.sample_3314	None
+m.sample_3315	None
+m.sample_3316	None
+m.sample_3317	None
+m.sample_3318	Dating
+m.sample_3319	None
+m.sample_3320	None
+m.sample_3321	None
+m.sample_3322	None
+m.sample_3323	None
+m.sample_3324	None
+m.sample_3325	None
+m.sample_3326	None
+m.sample_3327	None
+m.sample_3328	None
+m.sample_3329	None
+m.sample_3330	None
+m.sample_3331	None
+m.sample_3332	None
+m.sample_3333	None
+m.sample_3334	None
+m.sample_3335	None
+m.sample_3336	None
+m.sample_3337	None
+m.sample_3338	None
+m.sample_3339	None
+m.sample_3340	None
+m.sample_3341	None
+m.sample_3342	None
+m.sample_3343	None
+m.sample_3344	None
+m.sample_3345	None
+m.sample_3346	None
+m.sample_3347	None
+m.sample_3348	None
+m.sample_3349	None
+m.sample_3350	None
+m.sample_3351	None
+m.sample_3352	Motivation
+m.sample_3353	None
+m.sample_3354	None
+m.sample_3355	None
+m.sample_3356	None
+m.sample_3357	None
+m.sample_3358	Locked Up
+m.sample_3359	None
+m.sample_3360	None
+m.sample_3361	None
+m.sample_3362	None
+m.sample_3363	None
+m.sample_3364	None
+m.sample_3365	None
+m.sample_3366	None
+m.sample_3367	None
+m.sample_3368	None
+m.sample_3369	None
+m.sample_3370	None
+m.sample_3371	None
+m.sample_3372	None
+m.sample_3373	None
+m.sample_3374	None
+m.sample_3375	None
+m.sample_3376	None
+m.sample_3377	None
+m.sample_3378	None
+m.sample_3379	None
+m.sample_3380	Interpersonal relationship
+m.sample_3381	None
+m.sample_3382	None
+m.sample_3383	None
+m.sample_3384	None
+m.sample_3385	None
+m.sample_3386	None
+m.sample_3387	None
+m.sample_3388	None
+m.sample_3389	None
+m.sample_3390	None
+m.sample_3391	None
+m.sample_3392	None
+m.sample_3393	None
+m.sample_3394	None
+m.sample_3395	None
+m.sample_3396	None
+m.sample_3397	None
+m.sample_3398	None
+m.sample_3399	None
+m.sample_3400	None
+m.sample_3401	None
+m.sample_3402	None
+m.sample_3403	None
+m.sample_3404	None
+m.sample_3405	None
+m.sample_3406	None
+m.sample_3407	None
+m.sample_3408	None
+m.sample_3409	None
+m.sample_3410	None
+m.sample_3411	None
+m.sample_3412	None
+m.sample_3413	None
+m.sample_3414	American Music Awards of 1994
+m.sample_3415	None
+m.sample_3416	None
+m.sample_3417	None
+m.sample_3418	None
+m.sample_3419	None
+m.sample_3420	None
+m.sample_3421	None
+m.sample_3422	None
+m.sample_3423	None
+m.sample_3424	None
+m.sample_3425	None
+m.sample_3426	None
+m.sample_3427	None
+m.sample_3428	None
+m.sample_3429	None
+m.sample_3430	None
+m.sample_3431	None
+m.sample_3432	None
+m.sample_3433	None
+m.sample_3434	None
+m.sample_3435	None
+m.sample_3436	None
+m.sample_3437	None
+m.sample_3438	None
+m.sample_3439	None
+m.sample_3440	None
+m.sample_3441	None
+m.sample_3442	None
+m.sample_3443	None
+m.sample_3444	None
+m.sample_3445	None
+m.sample_3446	None
+m.sample_3447	None
+m.sample_3448	None
+m.sample_3449	None
+m.sample_3450	None
+m.sample_3451	None
+m.sample_3452	None
+m.sample_3453	None
+m.sample_3454	None
+m.sample_3455	None
+m.sample_3456	None
+m.sample_3457	Pocket Books
+m.sample_3458	None
+m.sample_3459	None
+m.sample_3460	None
+m.sample_3461	None
+m.sample_3462	None
+m.sample_3463	None
+m.sample_3464	None
+m.sample_3465	None
+m.sample_3466	None
+m.sample_3467	None
+m.sample_3468	None
+m.sample_3469	None
+m.sample_3470	None
+m.sample_3471	None
+m.sample_3472	None
+m.sample_3473	None
+m.sample_3474	None
+m.sample_3475	None
+m.sample_3476	None
+m.sample_3477	None
+m.sample_3478	None
+m.sample_3479	None
+m.sample_3480	None
+m.sample_3481	None
+m.sample_3482	None
+m.sample_3483	None
+m.sample_3484	How to Be a Player (soundtrack)
+m.sample_3485	None
+m.sample_3486	None
+m.sample_3487	None
+m.sample_3488	None
+m.sample_3489	Breathe (Reprise)
+m.sample_3490	None
+m.sample_3491	None
+m.sample_3492	None
+m.sample_3493	None
+m.sample_3494	None
+m.sample_3495	None
+m.sample_3496	None
+m.sample_3497	None
+m.sample_3498	None
+m.sample_3499	None
+m.sample_3500	None
+m.sample_3501	None
+m.sample_3502	None
+m.sample_3503	None
+m.sample_3504	None
+m.sample_3505	None
+m.sample_3506	None
+m.sample_3507	None
+m.sample_3508	Flirting
+m.sample_3509	None
+m.sample_3510	None
+m.sample_3511	None
+m.sample_3512	None
+m.sample_3513	None
+m.sample_3514	None
+m.sample_3515	None
+m.sample_3516	None
+m.sample_3517	None
+m.sample_3518	None
+m.sample_3519	None
+m.sample_3520	None
+m.sample_3521	None
+m.sample_3522	None
+m.sample_3523	None
+m.sample_3524	None
+m.sample_3525	None
+m.sample_3526	None
+m.sample_3527	None
+m.sample_3528	None
+m.sample_3529	None
+m.sample_3530	None
+m.sample_3531	None
+m.sample_3532	None
+m.sample_3533	None
+m.sample_3534	None
+m.sample_3535	None
+m.sample_3536	None
+m.sample_3537	None
+m.sample_3538	President
+m.sample_3539	Azad Kashmir
+m.sample_3540	None
+m.sample_3541	None
+m.sample_3542	None
+m.sample_3543	None
+m.sample_3544	None
+m.sample_3545	None
+m.sample_3546	Subri Lake
+m.sample_3547	Muzaffarabad
+m.sample_3548	None
+m.sample_3549	Ulama
+m.sample_3550	Sardar Sikandar Hayat Khan
+m.sample_3551	John F. Kennedy
+m.sample_3552	None
+m.sample_3553	Laura Roslin
+m.sample_3554	None
+m.sample_3555	None
+m.sample_3556	None
+m.sample_3557	None
+m.sample_3558	None
+m.sample_3559	None
+m.sample_3560	None
+m.sample_3561	None
+m.sample_3562	None
+m.sample_3563	None
+m.sample_3564	None
+m.sample_3565	Alabama
+m.sample_3566	None
+m.sample_3567	None
+m.sample_3568	None
+m.sample_3569	Human
+m.sample_3570	James Thurber
+m.sample_3571	Bhimber
+m.sample_3572	None
+m.sample_3573	None
+m.sample_3574	None
+m.sample_3575	None
+m.sample_3576	None
+m.sample_3577	None
+m.sample_3578	None
+m.sample_3579	Politician
+m.sample_3580	Abraham Lincoln
+m.sample_3581	None
+m.sample_3582	Lyndon B. Johnson
+m.sample_3583	None
+m.sample_3584	None
+m.sample_3585	Ronald Reagan
+m.sample_3586	Lead vocalist
+m.sample_3587	None
+m.sample_3588	Imtiaz Abbasi
+m.sample_3589	None
+m.sample_3590	None
+m.sample_3591	Bob Dylan
+m.sample_3592	None
+m.sample_3593	None
+m.sample_3594	John Updike
+m.sample_3595	None
+m.sample_3596	None
+m.sample_3597	None
+m.sample_3598	None
+m.sample_3599	None
+m.sample_3600	None
+m.sample_3601	None
+m.sample_3602	None
+m.sample_3603	None
+m.sample_3604	Max Lerner
+m.sample_3605	Author
+m.sample_3606	Artist
+m.sample_3607	Raja Muhammad Zulqarnain Khan
+m.sample_3608	None
+m.sample_3609	None
+m.sample_3610	None
+m.sample_3611	None
+m.sample_3612	None
+m.sample_3613	Pakistan
+m.sample_3614	Punjab, Pakistan
+m.sample_3615	Pallandri
+m.sample_3616	Pakistan Standard Time
+m.sample_3617	None
+m.sample_3618	None
+m.sample_3619	None
+m.sample_3620	None
+m.sample_3621	None
+m.sample_3622	Cadet College Palandri
+m.sample_3623	None
+m.sample_3624	None
+m.sample_3625	None
+m.sample_3626	None
+m.sample_3627	None
+m.sample_3628	Information technology
+m.sample_3629	Winston Churchill
+m.sample_3630	None
+m.sample_3631	None
+m.sample_3632	None
+m.sample_3633	None
+m.sample_3634	None
+m.sample_3635	None
+m.sample_3636	Harry S. Truman
+m.sample_3637	None
+m.sample_3638	None
+m.sample_3639	Online shopping
+m.sample_3640	None
+m.sample_3641	Thorar
+m.sample_3642	Saidpur, Kotli
+m.sample_3643	None
+m.sample_3644	None
+m.sample_3645	None
+m.sample_3646	SEIU 775
+m.sample_3647	Banabona
+m.sample_3648	None
+m.sample_3649	None
+m.sample_3650	None
+m.sample_3651	None
+m.sample_3652	Red River College
+m.sample_3653	None
+m.sample_3654	Luisa Diogo
+m.sample_3655	None
+m.sample_3656	None
+m.sample_3657	None
+m.sample_3658	Kumar Bandi
+m.sample_3659	None
+m.sample_3660	None
+m.sample_3661	None
+m.sample_3662	Marhota
+m.sample_3663	None
+m.sample_3664	Rawalakot
+m.sample_3665	None
+m.sample_3666	Shahzada Ghaffar
+m.sample_3667	None
+m.sample_3668	None
+m.sample_3669	None
+m.sample_3670	None
+m.sample_3671	Sardar Khalid Ibrahim Khan
+m.sample_3672	None
+m.sample_3673	None
+m.sample_3674	None
+m.sample_3675	Teacher
+m.sample_3676	Ch Abdul Majid
+m.sample_3677	None
+m.sample_3678	None
+m.sample_3679	Indian American
+m.sample_3680	Mirpur University of Science and Technology
+m.sample_3681	None
+m.sample_3682	None
+m.sample_3683	None
+m.sample_3684	None
+m.sample_3685	None
+m.sample_3686	None
+m.sample_3687	Alan Egerton, 3rd Baron Egerton
+m.sample_3688	None
+m.sample_3689	Samahni
+m.sample_3690	Bindian
+m.sample_3691	None
+m.sample_3692	None
+m.sample_3693	University of Azad Jammu and Kashmir
+m.sample_3694	None
+m.sample_3695	None
+m.sample_3696	Kashmir
+m.sample_3697	None
+m.sample_3698	None
+m.sample_3699	Gura Balial
+m.sample_3700	Ralph Waldo Emerson
+m.sample_3701	None
+m.sample_3702	None
+m.sample_3703	Richard Nixon
+m.sample_3704	None
+m.sample_3705	NutraSweet
+m.sample_3706	None
+m.sample_3707	Irish Congress of Trade Unions
+m.sample_3708	None
+m.sample_3709	None
+m.sample_3710	None
+m.sample_3711	P. J. O'Rourke
+m.sample_3712	Nailan
+m.sample_3713	None
+m.sample_3714	None
+m.sample_3715	None
+m.sample_3716	Mohi-ud-Din Islamic University
+m.sample_3717	Florence King
+m.sample_3718	Khuiratta
+m.sample_3719	None
+m.sample_3720	None
+m.sample_3721	None
+m.sample_3722	Atlas Shrugged
+m.sample_3723	Rawalakot Airport
+m.sample_3724	None
+m.sample_3725	None
+m.sample_3726	None
+m.sample_3727	None
+m.sample_3728	None
+m.sample_3729	None
+m.sample_3730	None
+m.sample_3731	None
+m.sample_3732	Bob Jones University
+m.sample_3733	None
+m.sample_3734	None
+m.sample_3735	None
+m.sample_3736	Radio Free Europe/Radio Liberty
+m.sample_3737	Walter Bagehot
+m.sample_3738	None
+m.sample_3739	None
+m.sample_3740	None
+m.sample_3741	None
+m.sample_3742	None
+m.sample_3743	None
+m.sample_3744	None
+m.sample_3745	None
+m.sample_3746	None
+m.sample_3747	None
+m.sample_3748	None
+m.sample_3749	Dick Cheney
+m.sample_3750	None
+m.sample_3751	None
+m.sample_3752	None
+m.sample_3753	None
+m.sample_3754	Composer
+m.sample_3755	None
+m.sample_3756	None
+m.sample_3757	Raj Comics
+m.sample_3758	None
+m.sample_3759	None
+m.sample_3760	None
+m.sample_3761	Tain A.K
+m.sample_3762	None
+m.sample_3763	None
+m.sample_3764	None
+m.sample_3765	None
+m.sample_3766	Intercultural Open University
+m.sample_3767	None
+m.sample_3768	None
+m.sample_3769	None
+m.sample_3770	Sehnsa
+m.sample_3771	None
+m.sample_3772	None
+m.sample_3773	None
+m.sample_3774	Mangla
+m.sample_3775	None
+m.sample_3776	None
+m.sample_3777	None
+m.sample_3778	None
+m.sample_3779	None
+m.sample_3780	None
+m.sample_3781	Twelve Colonies
+m.sample_3782	None
+m.sample_3783	None
+m.sample_3784	None
+m.sample_3785	Summit Racing Equipment
+m.sample_3786	None
+m.sample_3787	None
+m.sample_3788	None
+m.sample_3789	None
+m.sample_3790	Film Producer
+m.sample_3791	Václav Havel
+m.sample_3792	Government
+m.sample_3793	None
+m.sample_3794	American Theological Library Association
+m.sample_3795	None
+m.sample_3796	None
+m.sample_3797	Eastern Partnership
+m.sample_3798	Oscar Wilde
+m.sample_3799	International Brotherhood of Electrical Workers
+m.sample_3800	None
+m.sample_3801	None
+m.sample_3802	Canadian Labour Congress
+m.sample_3803	None
+m.sample_3804	Ayn Rand
+m.sample_3805	None
+m.sample_3806	None
+m.sample_3807	None
+m.sample_3808	None
+m.sample_3809	None
+m.sample_3810	None
+m.sample_3811	Michael Masih
+m.sample_3812	Balouch, Azad Kashmir
+m.sample_3813	None
+m.sample_3814	None
+m.sample_3815	Ronald D. Moore
+m.sample_3816	None
+m.sample_3817	None
+m.sample_3818	None
+m.sample_3819	None
+m.sample_3820	None
+m.sample_3821	None
+m.sample_3822	None
+m.sample_3823	None
+m.sample_3824	None
+m.sample_3825	None
+m.sample_3826	None
+m.sample_3827	Khalid Mahmood
+m.sample_3828	None
+m.sample_3829	None
+m.sample_3830	None
+m.sample_3831	Mirpur, Azad Kashmir
+m.sample_3832	None
+m.sample_3833	None
+m.sample_3834	St. Patrick's, Carlow College
+m.sample_3835	None
+m.sample_3836	None
+m.sample_3837	None
+m.sample_3838	None
+m.sample_3839	None
+m.sample_3840	None
+m.sample_3841	None
+m.sample_3842	None
+m.sample_3843	None
+m.sample_3844	None
+m.sample_3845	None
+m.sample_3846	None
+m.sample_3847	Rehman Chishti
+m.sample_3848	None
+m.sample_3849	Haveli District
+m.sample_3850	White American
+m.sample_3851	Music Video Director
+m.sample_3852	None
+m.sample_3853	None
+m.sample_3854	None
+m.sample_3855	None
+m.sample_3856	Richard Adar
+m.sample_3857	None
+m.sample_3858	Thomas Jefferson
+m.sample_3859	None
+m.sample_3860	Music artist
+m.sample_3861	None
+m.sample_3862	None
+m.sample_3863	None
+m.sample_3864	None
+m.sample_3865	Rackspace
+m.sample_3866	None
+m.sample_3867	None
+m.sample_3868	Ukraine
+m.sample_3869	None
+m.sample_3870	European Broadcasting Union
+m.sample_3871	Asia
+m.sample_3872	Talent manager
+m.sample_3873	Jean-Paul Philippot
+m.sample_3874	Ali Adnan Ibrahim
+m.sample_3875	None
+m.sample_3876	None
+m.sample_3877	None
+m.sample_3878	None
+m.sample_3879	None
+m.sample_3880	None
+m.sample_3881	None
+m.sample_3882	None
+m.sample_3883	None
+m.sample_3884	None
+m.sample_3885	None
+m.sample_3886	Chagrianda
+m.sample_3887	None
+m.sample_3888	None
+m.sample_3889	None
+m.sample_3890	Demonstration (people)
+m.sample_3891	None
+m.sample_3892	None
+m.sample_3893	None
+m.sample_3894	None
+m.sample_3895	None
+m.sample_3896	Zero Records
+m.sample_3897	Tabarak Dar
+m.sample_3898	None
+m.sample_3899	National Baseball Hall of Fame and Museum
+m.sample_3900	Jeff Idelson
+m.sample_3901	None
+m.sample_3902	Film director
+m.sample_3903	None
+m.sample_3904	None
+m.sample_3905	None
+m.sample_3906	None
+m.sample_3907	Multiracial
+m.sample_3908	Al-Khair University
+m.sample_3909	None
+m.sample_3910	None
+m.sample_3911	Karam Hussain
+m.sample_3912	None
+m.sample_3913	None
+m.sample_3914	None
+m.sample_3915	None
+m.sample_3916	None
+m.sample_3917	Gaius Baltar
+m.sample_3918	Gold's Gym
+m.sample_3919	None
+m.sample_3920	None
+m.sample_3921	None
+m.sample_3922	None
+m.sample_3923	Hilton Grand Vacations Company
+m.sample_3924	Saks Fifth Avenue
+m.sample_3925	None
+m.sample_3926	None
+m.sample_3927	Majwal
+m.sample_3928	None
+m.sample_3929	Boycott
+m.sample_3930	American Society of News Editors
+m.sample_3931	None
+m.sample_3932	None
+m.sample_3933	Palm Beach Atlantic University
+m.sample_3934	None
+m.sample_3935	None
+m.sample_3936	None
+m.sample_3937	Hubert Humphrey
+m.sample_3938	None
+m.sample_3939	None
+m.sample_3940	None
+m.sample_3941	None
+m.sample_3942	None
+m.sample_3943	Croatian Academy of Sciences and Arts
+m.sample_3944	Clarence Darrow
+m.sample_3945	None
+m.sample_3946	Entrepreneur
+m.sample_3947	None
+m.sample_3948	None
+m.sample_3949	None
+m.sample_3950	None
+m.sample_3951	None
+m.sample_3952	Viking Line
+m.sample_3953	None
+m.sample_3954	Mozambique
+m.sample_3955	None
+m.sample_3956	None
+m.sample_3957	Fundamentalist Church of Jesus Christ of Latter-Day Saints
+m.sample_3958	None
+m.sample_3959	Mangla Airport
+m.sample_3960	Adlai E. Stevenson I
+m.sample_3961	None
+m.sample_3962	None
+m.sample_3963	None
+m.sample_3964	None
+m.sample_3965	Elizabeth Garrett
+m.sample_3966	None
+m.sample_3967	None
+m.sample_3968	Battle of Chamb
+m.sample_3969	None
+m.sample_3970	None
+m.sample_3971	Luca Cordero di Montezemolo
+m.sample_3972	None
+m.sample_3973	Right-handedness
+m.sample_3974	None
+m.sample_3975	None
+m.sample_3976	None
+m.sample_3977	Italian American
+m.sample_3978	None
+m.sample_3979	None
+m.sample_3980	None
+m.sample_3981	Production management (theater)
+m.sample_3982	Shamas Rehman
+m.sample_3983	None
+m.sample_3984	None
+m.sample_3985	Chakswari
+m.sample_3986	None
+m.sample_3987	None
+m.sample_3988	Lyricist
+m.sample_3989	None
+m.sample_3990	None
+m.sample_3991	None
+m.sample_3992	None
+m.sample_3993	None
+m.sample_3994	None
+m.sample_3995	Chief executive officer
+m.sample_3996	None
+m.sample_3997	None
+m.sample_3998	None
+m.sample_3999	Ghana Football Association
+m.sample_4000	None
+m.sample_4001	Edward Theodore Newell
+m.sample_4002	Farooq Haider Khan
+m.sample_4003	None
+m.sample_4004	None
+m.sample_4005	Authentication
+m.sample_4006	None
+m.sample_4007	None
+m.sample_4008	Association for Women in Mathematics
+m.sample_4009	None
+m.sample_4010	None
+m.sample_4011	Quaid-e-Azam Stadium
+m.sample_4012	None
+m.sample_4013	None
+m.sample_4014	Rajdhani, Kotli
+m.sample_4015	None
+m.sample_4016	None
+m.sample_4017	None
+m.sample_4018	None
+m.sample_4019	None
+m.sample_4020	Battlestar Galactica
+m.sample_4021	None
+m.sample_4022	Oxford Union
+m.sample_4023	Henry Adams
+m.sample_4024	None
+m.sample_4025	None
+m.sample_4026	Raja Sajjawal Khan
+m.sample_4027	None
+m.sample_4028	None
+m.sample_4029	None
+m.sample_4030	None
+m.sample_4031	None
+m.sample_4032	Cornell University
+m.sample_4033	None
+m.sample_4034	Party of Friendship, Equality and Peace
+m.sample_4035	None
+m.sample_4036	All (band)
+m.sample_4037	None
+m.sample_4038	None
+m.sample_4039	None
+m.sample_4040	None
+m.sample_4041	None
+m.sample_4042	None
+m.sample_4043	None
+m.sample_4044	None
+m.sample_4045	None
+m.sample_4046	Engineer
+m.sample_4047	None
+m.sample_4048	None
+m.sample_4049	None
+m.sample_4050	None
+m.sample_4051	None
+m.sample_4052	None
+m.sample_4053	None
+m.sample_4054	5 Kanal (Ukraine)
+m.sample_4055	Giran, Kashmir
+m.sample_4056	None
+m.sample_4057	None
+m.sample_4058	None
+m.sample_4059	None
+m.sample_4060	None
+m.sample_4061	Vice President of the United States
+m.sample_4062	Singer-songwriter
+m.sample_4063	None
+m.sample_4064	None
+m.sample_4065	None
+m.sample_4066	Muzaffarabad Airport
+m.sample_4067	None
+m.sample_4068	None
+m.sample_4069	None
+m.sample_4070	None
+m.sample_4071	None
+m.sample_4072	None
+m.sample_4073	None
+m.sample_4074	None
+m.sample_4075	None
+m.sample_4076	None
+m.sample_4077	Galatasaray S.K.
+m.sample_4078	None
+m.sample_4079	None
+m.sample_4080	None
+m.sample_4081	None
+m.sample_4082	None
+m.sample_4083	Battle of Chamb and Dogra
+m.sample_4084	None
+m.sample_4085	None
+m.sample_4086	Srinagar–Muzaffarabad Bus
+m.sample_4087	Argentine Football Association
+m.sample_4088	None
+m.sample_4089	None
+m.sample_4090	Julio Grondona
+m.sample_4091	None
+m.sample_4092	None
+m.sample_4093	None
+m.sample_4094	Ahmet Hacıosman
+m.sample_4095	None
+m.sample_4096	Sardar Muhammad Anwar Khan
+m.sample_4097	None
+m.sample_4098	None
+m.sample_4099	None
+m.sample_4100	None
+m.sample_4101	None
+m.sample_4102	None
+m.sample_4103	None
+m.sample_4104	None
+m.sample_4105	None
+m.sample_4106	None
+m.sample_4107	None
+m.sample_4108	None
+m.sample_4109	None
+m.sample_4110	None
+m.sample_4111	None
+m.sample_4112	None
+m.sample_4113	None
+m.sample_4114	None
+m.sample_4115	None
+m.sample_4116	Mark Wang
+m.sample_4117	None
+m.sample_4118	None
+m.sample_4119	None
+m.sample_4120	None
+m.sample_4121	None
+m.sample_4122	None
+m.sample_4123	None
+m.sample_4124	None
+m.sample_4125	None
+m.sample_4126	Executive producer
+m.sample_4127	None
+m.sample_4128	None
+m.sample_4129	None
+m.sample_4130	None
+m.sample_4131	None
+m.sample_4132	Bangladesh University of Business and Technology
+m.sample_4133	None
+m.sample_4134	None
+m.sample_4135	None
+m.sample_4136	None
+m.sample_4137	Prime minister
+m.sample_4138	None
+m.sample_4139	None
+m.sample_4140	Sultan Muzaffar Khan
+m.sample_4141	None
+m.sample_4142	None
+m.sample_4143	None
+m.sample_4144	Sufi rock
+m.sample_4145	Pachiot
+m.sample_4146	None
+m.sample_4147	None
+m.sample_4148	None
+m.sample_4149	None
+m.sample_4150	None
+m.sample_4151	None
+m.sample_4152	None
+m.sample_4153	None
+m.sample_4154	None
+m.sample_4155	None
+m.sample_4156	None
+m.sample_4157	Occupied territory
+m.sample_4158	United Arab Emirates
+m.sample_4159	None
+m.sample_4160	Channel One (Russia)
+m.sample_4161	None
+m.sample_4162	American Numismatic Society
+m.sample_4163	None
+m.sample_4164	None
+m.sample_4165	None
+m.sample_4166	None
+m.sample_4167	None
+m.sample_4168	None
+m.sample_4169	None
+m.sample_4170	Warren Jeffs
+m.sample_4171	None
+m.sample_4172	None
+m.sample_4173	None
+m.sample_4174	Ilyas Kashmiri (militant)
+m.sample_4175	None
+m.sample_4176	None
+m.sample_4177	None
+m.sample_4178	None
+m.sample_4179	None
+m.sample_4180	None
+m.sample_4181	None
+m.sample_4182	None
+m.sample_4183	None
+m.sample_4184	None
+m.sample_4185	Banjosa Lake
+m.sample_4186	None
+m.sample_4187	None
+m.sample_4188	None
+m.sample_4189	None
+m.sample_4190	None
+m.sample_4191	None
+m.sample_4192	Administrative division
+m.sample_4193	None
+m.sample_4194	None
+m.sample_4195	None
+m.sample_4196	Video production
+m.sample_4197	None
+m.sample_4198	None
+m.sample_4199	None
+m.sample_4200	None
+m.sample_4201	None
+m.sample_4202	None
+m.sample_4203	None
+m.sample_4204	None
+m.sample_4205	None
+m.sample_4206	None
+m.sample_4207	None
+m.sample_4208	Baptists
+m.sample_4209	None
+m.sample_4210	None
+m.sample_4211	None
+m.sample_4212	None
+m.sample_4213	None
+m.sample_4214	None
+m.sample_4215	None
+m.sample_4216	None
+m.sample_4217	None
+m.sample_4218	None
+m.sample_4219	None
+m.sample_4220	None
+m.sample_4221	None
+m.sample_4222	None
+m.sample_4223	None
+m.sample_4224	None
+m.sample_4225	None
+m.sample_4226	None
+m.sample_4227	None
+m.sample_4228	None
+m.sample_4229	None
+m.sample_4230	None
+m.sample_4231	None
+m.sample_4232	None
+m.sample_4233	None
+m.sample_4234	None
+m.sample_4235	None
+m.sample_4236	Sonic the Hedgehog (series)
+m.sample_4237	None
+m.sample_4238	None
+m.sample_4239	None
+m.sample_4240	None
+m.sample_4241	None
+m.sample_4242	None
+m.sample_4243	None
+m.sample_4244	None
+m.sample_4245	None
+m.sample_4246	None
+m.sample_4247	None
+m.sample_4248	None
+m.sample_4249	None
+m.sample_4250	None
+m.sample_4251	None
+m.sample_4252	None
+m.sample_4253	None
+m.sample_4254	None
+m.sample_4255	None
+m.sample_4256	None
+m.sample_4257	None
+m.sample_4258	None
+m.sample_4259	Bank Emisyjny w Polsce
+m.sample_4260	None
+m.sample_4261	Webmaster
+m.sample_4262	None
+m.sample_4263	None
+m.sample_4264	Photography
+m.sample_4265	None
+m.sample_4266	None
+m.sample_4267	None
+m.sample_4268	None
+m.sample_4269	Ukrayinska Pravda
+m.sample_4270	None
+m.sample_4271	None
+m.sample_4272	None
+m.sample_4273	Rajatarangini
+m.sample_4274	None
+m.sample_4275	None
+m.sample_4276	None
+m.sample_4277	None
+m.sample_4278	None
+m.sample_4279	None
+m.sample_4280	None
+m.sample_4281	None
+m.sample_4282	None
+m.sample_4283	None
+m.sample_4284	None
+m.sample_4285	None
+m.sample_4286	None
+m.sample_4287	None
+m.sample_4288	None
+m.sample_4289	None
+m.sample_4290	None
+m.sample_4291	None
+m.sample_4292	None
+m.sample_4293	None
+m.sample_4294	Islam
+m.sample_4295	Strike action
+m.sample_4296	None
+m.sample_4297	None
+m.sample_4298	None
+m.sample_4299	Kotli District
+m.sample_4300	None
+m.sample_4301	None
+m.sample_4302	Nicholas S. Zeppos
+m.sample_4303	None
+m.sample_4304	Milwaukee
+m.sample_4305	General Mitchell International Airport
+m.sample_4306	None
+m.sample_4307	None
+m.sample_4308	Milwaukee Chiefs (ice hockey)
+m.sample_4309	Wisconsin
+m.sample_4310	Harley-Davidson Museum
+m.sample_4311	None
+m.sample_4312	None
+m.sample_4313	None
+m.sample_4314	Lake, Milwaukee County, Wisconsin
+m.sample_4315	Milwaukee Brewers
+m.sample_4316	Basilica of St. Josaphat
+m.sample_4317	None
+m.sample_4318	None
+m.sample_4319	None
+m.sample_4320	Milwaukee County, Wisconsin
+m.sample_4321	None
+m.sample_4322	Milwaukee County Zoo
+m.sample_4323	None
+m.sample_4324	None
+m.sample_4325	None
+m.sample_4326	Martha Rivers Ingram
+m.sample_4327	None
+m.sample_4328	None
+m.sample_4329	None
+m.sample_4330	None
+m.sample_4331	None
+m.sample_4332	Vanderbilt University
+m.sample_4333	None
+m.sample_4334	None
+m.sample_4335	None
+m.sample_4336	Bay Beach Amusement Park
+m.sample_4337	None
+m.sample_4338	None
+m.sample_4339	Menomonee Valley
+m.sample_4340	None
+m.sample_4341	None
+m.sample_4342	None
+m.sample_4343	None
+m.sample_4344	Waukesha County, Wisconsin
+m.sample_4345	None
+m.sample_4346	None
+m.sample_4347	Milwaukee Bucks
+m.sample_4348	None
+m.sample_4349	Marcus Amphitheater
+m.sample_4350	None
+m.sample_4351	None
+m.sample_4352	None
+m.sample_4353	None
+m.sample_4354	None
+m.sample_4355	None
+m.sample_4356	Camp Anokijig
+m.sample_4357	None
+m.sample_4358	Discovery World
+m.sample_4359	None
+m.sample_4360	None
+m.sample_4361	1992 NCAA Men's Division I Basketball Tournament
+m.sample_4362	None
+m.sample_4363	None
+m.sample_4364	None
+m.sample_4365	None
+m.sample_4366	None
+m.sample_4367	None
+m.sample_4368	Patrick and Beatrice Haggerty Museum of Art
+m.sample_4369	None
+m.sample_4370	None
+m.sample_4371	University of Wisconsin-Madison
+m.sample_4372	University of Wisconsin Law School
+m.sample_4373	None
+m.sample_4374	None
+m.sample_4375	None
+m.sample_4376	MKE (tabloid)
+m.sample_4377	None
+m.sample_4378	None
+m.sample_4379	None
+m.sample_4380	Public Enemies
+m.sample_4381	Potawatomi Bingo Casino
+m.sample_4382	None
+m.sample_4383	Central Time Zone
+m.sample_4384	None
+m.sample_4385	None
+m.sample_4386	None
+m.sample_4387	None
+m.sample_4388	1984 NCAA Men's Division I Basketball Tournament
+m.sample_4389	Bay View, Milwaukee
+m.sample_4390	Lawrence J. Timmerman Airport
+m.sample_4391	East Side, Milwaukee
+m.sample_4392	None
+m.sample_4393	None
+m.sample_4394	None
+m.sample_4395	None
+m.sample_4396	None
+m.sample_4397	None
+m.sample_4398	None
+m.sample_4399	None
+m.sample_4400	Big Blue (crane)
+m.sample_4401	None
+m.sample_4402	None
+m.sample_4403	None
+m.sample_4404	None
+m.sample_4405	None
+m.sample_4406	None
+m.sample_4407	None
+m.sample_4408	None
+m.sample_4409	Grohmann Museum
+m.sample_4410	None
+m.sample_4411	None
+m.sample_4412	None
+m.sample_4413	None
+m.sample_4414	None
+m.sample_4415	None
+m.sample_4416	None
+m.sample_4417	None
+m.sample_4418	None
+m.sample_4419	None
+m.sample_4420	None
+m.sample_4421	None
+m.sample_4422	None
+m.sample_4423	Marquette Tribune
+m.sample_4424	None
+m.sample_4425	None
+m.sample_4426	None
+m.sample_4427	None
+m.sample_4428	None
+m.sample_4429	None
+m.sample_4430	None
+m.sample_4431	None
+m.sample_4432	None
+m.sample_4433	None
+m.sample_4434	None
+m.sample_4435	None
+m.sample_4436	None
+m.sample_4437	None
+m.sample_4438	None
+m.sample_4439	None
+m.sample_4440	None
+m.sample_4441	None
+m.sample_4442	None
+m.sample_4443	None
+m.sample_4444	Historic Third Ward, Milwaukee
+m.sample_4445	None
+m.sample_4446	None
+m.sample_4447	None
+m.sample_4448	None
+m.sample_4449	None
+m.sample_4450	None
+m.sample_4451	None
+m.sample_4452	None
+m.sample_4453	None
+m.sample_4454	None
+m.sample_4455	None
+m.sample_4456	Milwaukee Journal Sentinel
+m.sample_4457	None
+m.sample_4458	None
+m.sample_4459	None
+m.sample_4460	None
+m.sample_4461	None
+m.sample_4462	Bachelor of Arts
+m.sample_4463	None
+m.sample_4464	None
+m.sample_4465	None
+m.sample_4466	None
+m.sample_4467	None
+m.sample_4468	None
+m.sample_4469	Pabst Mansion
+m.sample_4470	None
+m.sample_4471	None
+m.sample_4472	None
+m.sample_4473	Area code 414
+m.sample_4474	None
+m.sample_4475	None
+m.sample_4476	None
+m.sample_4477	None
+m.sample_4478	None
+m.sample_4479	None
+m.sample_4480	None
+m.sample_4481	Milwaukee Fire Department
+m.sample_4482	Shepherd Express
+m.sample_4483	None
+m.sample_4484	None
+m.sample_4485	None
+m.sample_4486	Marquette Golden Eagles men's basketball
+m.sample_4487	None
+m.sample_4488	None
+m.sample_4489	None
+m.sample_4490	None
+m.sample_4491	None
+m.sample_4492	None
+m.sample_4493	None
+m.sample_4494	None
+m.sample_4495	Chancellor (education)
+m.sample_4496	Milwaukee Clarks
+m.sample_4497	None
+m.sample_4498	None
+m.sample_4499	None
+m.sample_4500	None
+m.sample_4501	None
+m.sample_4502	None
+m.sample_4503	None
+m.sample_4504	None
+m.sample_4505	None
+m.sample_4506	None
+m.sample_4507	None
+m.sample_4508	None
+m.sample_4509	None
+m.sample_4510	None
+m.sample_4511	None
+m.sample_4512	None
+m.sample_4513	None
+m.sample_4514	None
+m.sample_4515	None
+m.sample_4516	None
+m.sample_4517	None
+m.sample_4518	None
+m.sample_4519	None
+m.sample_4520	None
+m.sample_4521	None
+m.sample_4522	None
+m.sample_4523	None
+m.sample_4524	None
+m.sample_4525	None
+m.sample_4526	None
+m.sample_4527	None
+m.sample_4528	None
+m.sample_4529	None
+m.sample_4530	None
+m.sample_4531	None
+m.sample_4532	None
+m.sample_4533	None
+m.sample_4534	None
+m.sample_4535	Lou Seal
+m.sample_4536	None
+m.sample_4537	None
+m.sample_4538	San Francisco Giants
+m.sample_4539	None
+m.sample_4540	None
+m.sample_4541	None
+m.sample_4542	None
+m.sample_4543	Polo Grounds
+m.sample_4544	None
+m.sample_4545	Seals Stadium
+m.sample_4546	None
+m.sample_4547	None
+m.sample_4548	None
+m.sample_4549	None
+m.sample_4550	None
+m.sample_4551	None
+m.sample_4552	AT&T Park
+m.sample_4553	2010 World Series
+m.sample_4554	None
+m.sample_4555	National League
+m.sample_4556	None
+m.sample_4557	2012 Major League Baseball season
+m.sample_4558	None
+m.sample_4559	None
+m.sample_4560	Hilltop Park
+m.sample_4561	None
+m.sample_4562	None
+m.sample_4563	None
+m.sample_4564	None
+m.sample_4565	None
+m.sample_4566	None
+m.sample_4567	None
+m.sample_4568	None
+m.sample_4569	National League West
+m.sample_4570	None
+m.sample_4571	None
+m.sample_4572	None
+m.sample_4573	None
+m.sample_4574	None
+m.sample_4575	None
+m.sample_4576	None
+m.sample_4577	None
+m.sample_4578	None
+m.sample_4579	None
+m.sample_4580	St. George Cricket Grounds
+m.sample_4581	None
+m.sample_4582	None
+m.sample_4583	Dodgers–Giants rivalry
+m.sample_4584	None
+m.sample_4585	None
+m.sample_4586	None
+m.sample_4587	None
+m.sample_4588	None
+m.sample_4589	None
+m.sample_4590	None
+m.sample_4591	None
+m.sample_4592	None
+m.sample_4593	None
+m.sample_4594	None
+m.sample_4595	None
+m.sample_4596	None
+m.sample_4597	Candlestick Park
+m.sample_4598	None
+m.sample_4599	None
+m.sample_4600	None
+m.sample_4601	None
+m.sample_4602	None
+m.sample_4603	None
+m.sample_4604	None
+m.sample_4605	None
+m.sample_4606	None
+m.sample_4607	None
+m.sample_4608	None
+m.sample_4609	None
+m.sample_4610	None
+m.sample_4611	None
+m.sample_4612	None
+m.sample_4613	None
+m.sample_4614	None
+m.sample_4615	None
+m.sample_4616	None
+m.sample_4617	None
+m.sample_4618	2012 World Series
+m.sample_4619	None
+m.sample_4620	None
+m.sample_4621	None
+m.sample_4622	None
+m.sample_4623	None
+m.sample_4624	None
+m.sample_4625	None
+m.sample_4626	None
+m.sample_4627	None
+m.sample_4628	None
+m.sample_4629	None
+m.sample_4630	None
+m.sample_4631	None
+m.sample_4632	None
+m.sample_4633	None
+m.sample_4634	None
+m.sample_4635	Bruce Bochy
+m.sample_4636	2014 World Series
+m.sample_4637	None
+m.sample_4638	None
+m.sample_4639	None
+m.sample_4640	None
+m.sample_4641	None
+m.sample_4642	None
+m.sample_4643	None
+m.sample_4644	None
+m.sample_4645	None
+m.sample_4646	None
+m.sample_4647	None
+m.sample_4648	2010 Major League Baseball season
+m.sample_4649	None
+m.sample_4650	None
+m.sample_4651	None
+m.sample_4652	None
+m.sample_4653	None
+m.sample_4654	None
+m.sample_4655	None
+m.sample_4656	None
+m.sample_4657	None
+m.sample_4658	None
+m.sample_4659	None
+m.sample_4660	Crazy Crab
+m.sample_4661	None
+m.sample_4662	None
+m.sample_4663	None
+m.sample_4664	None
+m.sample_4665	Baseball
+m.sample_4666	None
+m.sample_4667	None
+m.sample_4668	None
+m.sample_4669	None
+m.sample_4670	None
+m.sample_4671	None
+m.sample_4672	None
+m.sample_4673	None
+m.sample_4674	None
+m.sample_4675	None
+m.sample_4676	None
+m.sample_4677	None
+m.sample_4678	Bill Neukom
+m.sample_4679	Mascot
+m.sample_4680	None
+m.sample_4681	None
+m.sample_4682	None
+m.sample_4683	None
+m.sample_4684	None
+m.sample_4685	None
+m.sample_4686	None
+m.sample_4687	None
+m.sample_4688	None
+m.sample_4689	None
+m.sample_4690	None
+m.sample_4691	None
+m.sample_4692	1996 San Francisco Giants season
+m.sample_4693	None
+m.sample_4694	None
+m.sample_4695	None
+m.sample_4696	None
+m.sample_4697	None
+m.sample_4698	None
+m.sample_4699	None
+m.sample_4700	None
+m.sample_4701	None
+m.sample_4702	None
+m.sample_4703	None
+m.sample_4704	None
+m.sample_4705	None
+m.sample_4706	None
+m.sample_4707	None
+m.sample_4708	None
+m.sample_4709	None
+m.sample_4710	None
+m.sample_4711	Cream (colour)
+m.sample_4712	None
+m.sample_4713	None
+m.sample_4714	None
+m.sample_4715	None
+m.sample_4716	None
+m.sample_4717	None
+m.sample_4718	Bachelor's degree
+m.sample_4719	None
+m.sample_4720	Brad Paisley
+m.sample_4721	None
+m.sample_4722	None
+m.sample_4723	None
+m.sample_4724	University
+m.sample_4725	None
+m.sample_4726	None
+m.sample_4727	Hamburg
+m.sample_4728	None
+m.sample_4729	None
+m.sample_4730	Anything Like Me
+m.sample_4731	None
+m.sample_4732	None
+m.sample_4733	None
+m.sample_4734	None
+m.sample_4735	None
+m.sample_4736	Edge Hill University
+m.sample_4737	None
+m.sample_4738	None
+m.sample_4739	None
+m.sample_4740	None
+m.sample_4741	None
+m.sample_4742	None
+m.sample_4743	None
+m.sample_4744	None
+m.sample_4745	None
+m.sample_4746	None
+m.sample_4747	None
+m.sample_4748	None
+m.sample_4749	None
+m.sample_4750	None
+m.sample_4751	None
+m.sample_4752	None
+m.sample_4753	Country
+m.sample_4754	None
+m.sample_4755	None
+m.sample_4756	None
+m.sample_4757	College
+m.sample_4758	None
+m.sample_4759	None
+m.sample_4760	None
+m.sample_4761	None
+m.sample_4762	None
+m.sample_4763	None
+m.sample_4764	None
+m.sample_4765	Colorado
+m.sample_4766	None
+m.sample_4767	None
+m.sample_4768	None
+m.sample_4769	None
+m.sample_4770	None
+m.sample_4771	None
+m.sample_4772	This Is Country Music
+m.sample_4773	None
+m.sample_4774	Arista Records
+m.sample_4775	None
+m.sample_4776	None
+m.sample_4777	None
+m.sample_4778	None
+m.sample_4779	None
+m.sample_4780	Real estate
+m.sample_4781	None
+m.sample_4782	The World (Brad Paisley song)
+m.sample_4783	None
+m.sample_4784	None
+m.sample_4785	SMU School of Social Sciences
+m.sample_4786	None
+m.sample_4787	None
+m.sample_4788	None
+m.sample_4789	None
+m.sample_4790	None
+m.sample_4791	None
+m.sample_4792	None
+m.sample_4793	Johnny Be Good
+m.sample_4794	None
+m.sample_4795	None
+m.sample_4796	None
+m.sample_4797	Distance education
+m.sample_4798	Electric guitar
+m.sample_4799	Guitar
+m.sample_4800	Bass guitar
+m.sample_4801	None
+m.sample_4802	Guitarist
+m.sample_4803	None
+m.sample_4804	None
+m.sample_4805	None
+m.sample_4806	None
+m.sample_4807	None
+m.sample_4808	None
+m.sample_4809	None
+m.sample_4810	None
+m.sample_4811	None
+m.sample_4812	None
+m.sample_4813	None
+m.sample_4814	American Saturday Night (song)
+m.sample_4815	None
+m.sample_4816	None
+m.sample_4817	None
+m.sample_4818	None
+m.sample_4819	None
+m.sample_4820	None
+m.sample_4821	None
+m.sample_4822	Glen Dale
+m.sample_4823	None
+m.sample_4824	None
+m.sample_4825	None
+m.sample_4826	None
+m.sample_4827	None
+m.sample_4828	None
+m.sample_4829	None
+m.sample_4830	None
+m.sample_4831	None
+m.sample_4832	None
+m.sample_4833	Arista Nashville
+m.sample_4834	None
+m.sample_4835	None
+m.sample_4836	Time Well Wasted
+m.sample_4837	None
+m.sample_4838	None
+m.sample_4839	None
+m.sample_4840	None
+m.sample_4841	None
+m.sample_4842	None
+m.sample_4843	None
+m.sample_4844	None
+m.sample_4845	None
+m.sample_4846	None
+m.sample_4847	None
+m.sample_4848	None
+m.sample_4849	None
+m.sample_4850	None
+m.sample_4851	None
+m.sample_4852	None
+m.sample_4853	Gates Computer Science Building, Stanford
+m.sample_4854	Fachhochschule
+m.sample_4855	None
+m.sample_4856	None
+m.sample_4857	University of the Highlands and Islands
+m.sample_4858	None
+m.sample_4859	None
+m.sample_4860	University of Oxford
+m.sample_4861	None
+m.sample_4862	None
+m.sample_4863	None
+m.sample_4864	None
+m.sample_4865	None
+m.sample_4866	None
+m.sample_4867	None
+m.sample_4868	None
+m.sample_4869	None
+m.sample_4870	Hogeschool Leiden
+m.sample_4871	None
+m.sample_4872	None
+m.sample_4873	None
+m.sample_4874	None
+m.sample_4875	None
+m.sample_4876	None
+m.sample_4877	None
+m.sample_4878	None
+m.sample_4879	None
+m.sample_4880	None
+m.sample_4881	None
+m.sample_4882	None
+m.sample_4883	None
+m.sample_4884	None
+m.sample_4885	None
+m.sample_4886	None
+m.sample_4887	None
+m.sample_4888	Ticks (song)
+m.sample_4889	None
+m.sample_4890	None
+m.sample_4891	Singer
+m.sample_4892	None
+m.sample_4893	None
+m.sample_4894	None
+m.sample_4895	None
+m.sample_4896	American Saturday Night
+m.sample_4897	None
+m.sample_4898	None
+m.sample_4899	Colorado State University
+m.sample_4900	None
+m.sample_4901	None
+m.sample_4902	None
+m.sample_4903	None
+m.sample_4904	Academic degree
+m.sample_4905	None
+m.sample_4906	None
+m.sample_4907	None
+m.sample_4908	None
+m.sample_4909	None
+m.sample_4910	None
+m.sample_4911	None
+m.sample_4912	None
+m.sample_4913	None
+m.sample_4914	None
+m.sample_4915	None
+m.sample_4916	Brad Paisley Christmas
+m.sample_4917	None
+m.sample_4918	None
+m.sample_4919	Education
+m.sample_4920	None
+m.sample_4921	None
+m.sample_4922	5th Gear (album)
+m.sample_4923	None
+m.sample_4924	None
+m.sample_4925	Country rock
+m.sample_4926	None
+m.sample_4927	None
+m.sample_4928	National University of Management
+m.sample_4929	None
+m.sample_4930	None
+m.sample_4931	None
+m.sample_4932	None
+m.sample_4933	None
+m.sample_4934	None
+m.sample_4935	None
+m.sample_4936	None
+m.sample_4937	None
+m.sample_4938	None
+m.sample_4939	None
+m.sample_4940	None
+m.sample_4941	None
+m.sample_4942	None
+m.sample_4943	None
+m.sample_4944	Letter to Me
+m.sample_4945	None
+m.sample_4946	None
+m.sample_4947	None
+m.sample_4948	None
+m.sample_4949	None
+m.sample_4950	None
+m.sample_4951	None
+m.sample_4952	None
+m.sample_4953	None
+m.sample_4954	Higher Learning
+m.sample_4955	Sea Gayle Music
+m.sample_4956	None
+m.sample_4957	None
+m.sample_4958	Playlist: The Very Best of Brad Paisley
+m.sample_4959	None
+m.sample_4960	None
+m.sample_4961	None
+m.sample_4962	None
+m.sample_4963	None
+m.sample_4964	None
+m.sample_4965	None
+m.sample_4966	None
+m.sample_4967	None
+m.sample_4968	None
+m.sample_4969	None
+m.sample_4970	None
+m.sample_4971	None
+m.sample_4972	None
+m.sample_4973	None
+m.sample_4974	None
+m.sample_4975	None
+m.sample_4976	None
+m.sample_4977	None
+m.sample_4978	None
+m.sample_4979	None
+m.sample_4980	None
+m.sample_4981	None
+m.sample_4982	None
+m.sample_4983	None
+m.sample_4984	None
+m.sample_4985	None
+m.sample_4986	None
+m.sample_4987	None
+m.sample_4988	None
+m.sample_4989	None
+m.sample_4990	None
+m.sample_4991	The Bedford Diaries
+m.sample_4992	None
+m.sample_4993	None
+m.sample_4994	None
+m.sample_4995	None
+m.sample_4996	None
+m.sample_4997	None
+m.sample_4998	None
+m.sample_4999	None
+m.sample_5000	None
+m.sample_5001	None
+m.sample_5002	None
+m.sample_5003	None
+m.sample_5004	None
+m.sample_5005	None
+m.sample_5006	Southern rock
+m.sample_5007	None
+m.sample_5008	None
+m.sample_5009	None
+m.sample_5010	None
+m.sample_5011	None
+m.sample_5012	Collège de Sorbonne
+m.sample_5013	Old Alabama
+m.sample_5014	None
+m.sample_5015	None
+m.sample_5016	Me Neither
+m.sample_5017	Alternative country
+m.sample_5018	None
+m.sample_5019	None
+m.sample_5020	None
+m.sample_5021	Ontario Universities' Application Centre
+m.sample_5022	None
+m.sample_5023	None
+m.sample_5024	None
+m.sample_5025	Welcome to the Future
+m.sample_5026	None
+m.sample_5027	Mater and the Ghostlight
+m.sample_5028	None
+m.sample_5029	Water (Brad Paisley song)
+m.sample_5030	None
+m.sample_5031	None
+m.sample_5032	None
+m.sample_5033	None
+m.sample_5034	None
+m.sample_5035	DeLand Hall
+m.sample_5036	None
+m.sample_5037	None
+m.sample_5038	None
+m.sample_5039	None
+m.sample_5040	None
+m.sample_5041	None
+m.sample_5042	None
+m.sample_5043	None
+m.sample_5044	None
+m.sample_5045	None
+m.sample_5046	None
+m.sample_5047	None
+m.sample_5048	None
+m.sample_5049	None
+m.sample_5050	None
+m.sample_5051	University of California, Berkeley
+m.sample_5052	None
+m.sample_5053	None
+m.sample_5054	None
+m.sample_5055	None
+m.sample_5056	None
+m.sample_5057	None
+m.sample_5058	None
+m.sample_5059	None
+m.sample_5060	None
+m.sample_5061	None
+m.sample_5062	None
+m.sample_5063	None
+m.sample_5064	None
+m.sample_5065	None
+m.sample_5066	None
+m.sample_5067	None
+m.sample_5068	None
+m.sample_5069	Online degrees
+m.sample_5070	None
+m.sample_5071	None
+m.sample_5072	None
+m.sample_5073	Country pop
+m.sample_5074	None
+m.sample_5075	None
+m.sample_5076	None
+m.sample_5077	MBA
+m.sample_5078	None
+m.sample_5079	Online (song)
+m.sample_5080	None
+m.sample_5081	University of Rostock
+m.sample_5082	None
+m.sample_5083	None
+m.sample_5084	None
+m.sample_5085	University of Gothenburg
+m.sample_5086	None
+m.sample_5087	None
+m.sample_5088	None
+m.sample_5089	None
+m.sample_5090	None
+m.sample_5091	None
+m.sample_5092	None
+m.sample_5093	None
+m.sample_5094	None
+m.sample_5095	None
+m.sample_5096	None
+m.sample_5097	None
+m.sample_5098	None
+m.sample_5099	None
+m.sample_5100	None
+m.sample_5101	None
+m.sample_5102	None
+m.sample_5103	None
+m.sample_5104	None
+m.sample_5105	None
+m.sample_5106	None
+m.sample_5107	None
+m.sample_5108	None
+m.sample_5109	None
+m.sample_5110	University of North Carolina at Charlotte
+m.sample_5111	None
+m.sample_5112	None
+m.sample_5113	None
+m.sample_5114	None
+m.sample_5115	None
+m.sample_5116	None
+m.sample_5117	None
+m.sample_5118	None
+m.sample_5119	None
+m.sample_5120	None
+m.sample_5121	None
+m.sample_5122	None
+m.sample_5123	None
+m.sample_5124	None
+m.sample_5125	None
+m.sample_5126	None
+m.sample_5127	None
+m.sample_5128	None
+m.sample_5129	None
+m.sample_5130	None
+m.sample_5131	None
+m.sample_5132	None
+m.sample_5133	Acoustic guitar
+m.sample_5134	None
+m.sample_5135	None
+m.sample_5136	None
+m.sample_5137	None
+m.sample_5138	None
+m.sample_5139	None
+m.sample_5140	She's Everything
+m.sample_5141	None
+m.sample_5142	None
+m.sample_5143	None
+m.sample_5144	None
+m.sample_5145	None
+m.sample_5146	Dallas Baptist University
+m.sample_5147	National Lampoon's Animal House
+m.sample_5148	None
+m.sample_5149	None
+m.sample_5150	None
+m.sample_5151	Miley Jab Hum Tum
+m.sample_5152	None
+m.sample_5153	None
+m.sample_5154	None
+m.sample_5155	None
+m.sample_5156	None
+m.sample_5157	None
+m.sample_5158	None
+m.sample_5159	None
+m.sample_5160	None
+m.sample_5161	None
+m.sample_5162	Birmingham Conservatoire
+m.sample_5163	None
+m.sample_5164	None
+m.sample_5165	None
+m.sample_5166	None
+m.sample_5167	None
+m.sample_5168	None
+m.sample_5169	None
+m.sample_5170	None
+m.sample_5171	None
+m.sample_5172	None
+m.sample_5173	None
+m.sample_5174	None
+m.sample_5175	None
+m.sample_5176	None
+m.sample_5177	Master's degree
+m.sample_5178	None
+m.sample_5179	None
+m.sample_5180	None
+m.sample_5181	None
+m.sample_5182	None
+m.sample_5183	None
+m.sample_5184	Celebrity (Brad Paisley song)
+m.sample_5185	None
+m.sample_5186	None
+m.sample_5187	None
+m.sample_5188	None
+m.sample_5189	None
+m.sample_5190	None
+m.sample_5191	None
+m.sample_5192	None
+m.sample_5193	None
+m.sample_5194	None
+m.sample_5195	None
+m.sample_5196	None
+m.sample_5197	None
+m.sample_5198	None
+m.sample_5199	Voice Actor
+m.sample_5200	None
+m.sample_5201	None
+m.sample_5202	None
+m.sample_5203	None
+m.sample_5204	Who Needs Pictures (song)
+m.sample_5205	None
+m.sample_5206	None
+m.sample_5207	None
+m.sample_5208	None
+m.sample_5209	None
+m.sample_5210	None
+m.sample_5211	None
+m.sample_5212	None
+m.sample_5213	None
+m.sample_5214	None
+m.sample_5215	None
+m.sample_5216	None
+m.sample_5217	None
+m.sample_5218	None
+m.sample_5219	None
+m.sample_5220	None
+m.sample_5221	None
+m.sample_5222	None
+m.sample_5223	None
+m.sample_5224	None
+m.sample_5225	None
+m.sample_5226	None
+m.sample_5227	None
+m.sample_5228	None
+m.sample_5229	None
+m.sample_5230	None
+m.sample_5231	None
+m.sample_5232	None
+m.sample_5233	None
+m.sample_5234	None
+m.sample_5235	None
+m.sample_5236	Another You (song)
+m.sample_5237	None
+m.sample_5238	None
+m.sample_5239	None
+m.sample_5240	I'm Gonna Miss Her (The Fishin' Song)
+m.sample_5241	None
+m.sample_5242	None
+m.sample_5243	None
+m.sample_5244	None
+m.sample_5245	None
+m.sample_5246	None
+m.sample_5247	None
+m.sample_5248	None
+m.sample_5249	None
+m.sample_5250	I Wish You'd Stay
+m.sample_5251	None
+m.sample_5252	None
+m.sample_5253	None
+m.sample_5254	None
+m.sample_5255	Americana (music)
+m.sample_5256	None
+m.sample_5257	Alcohol (Brad Paisley song)
+m.sample_5258	None
+m.sample_5259	None
+m.sample_5260	None
+m.sample_5261	None
+m.sample_5262	None
+m.sample_5263	None
+m.sample_5264	None
+m.sample_5265	None
+m.sample_5266	None
+m.sample_5267	None
+m.sample_5268	None
+m.sample_5269	None
+m.sample_5270	None
+m.sample_5271	None
+m.sample_5272	None
+m.sample_5273	None
+m.sample_5274	None
+m.sample_5275	None
+m.sample_5276	Part II (Brad Paisley album)
+m.sample_5277	None
+m.sample_5278	None
+m.sample_5279	None
+m.sample_5280	None
+m.sample_5281	None
+m.sample_5282	None
+m.sample_5283	None
+m.sample_5284	None
+m.sample_5285	None
+m.sample_5286	None
+m.sample_5287	None
+m.sample_5288	None
+m.sample_5289	None
+m.sample_5290	None
+m.sample_5291	None
+m.sample_5292	None
+m.sample_5293	None
+m.sample_5294	None
+m.sample_5295	None
+m.sample_5296	None
+m.sample_5297	None
+m.sample_5298	None
+m.sample_5299	None
+m.sample_5300	None
+m.sample_5301	None
+m.sample_5302	None
+m.sample_5303	None
+m.sample_5304	None
+m.sample_5305	None
+m.sample_5306	None
+m.sample_5307	None
+m.sample_5308	None
+m.sample_5309	None
+m.sample_5310	None
+m.sample_5311	None
+m.sample_5312	None
+m.sample_5313	None
+m.sample_5314	None
+m.sample_5315	None
+m.sample_5316	None
+m.sample_5317	Play (Brad Paisley album)
+m.sample_5318	None
+m.sample_5319	None
+m.sample_5320	None
+m.sample_5321	None
+m.sample_5322	None
+m.sample_5323	None
+m.sample_5324	None
+m.sample_5325	None
+m.sample_5326	None
+m.sample_5327	None
+m.sample_5328	None
+m.sample_5329	None
+m.sample_5330	None
+m.sample_5331	None
+m.sample_5332	None
+m.sample_5333	None
+m.sample_5334	None
+m.sample_5335	None
+m.sample_5336	None
+m.sample_5337	None
+m.sample_5338	None
+m.sample_5339	None
+m.sample_5340	None
+m.sample_5341	None
+m.sample_5342	None
+m.sample_5343	None
+m.sample_5344	None
+m.sample_5345	None
+m.sample_5346	None
+m.sample_5347	None
+m.sample_5348	None
+m.sample_5349	None
+m.sample_5350	None
+m.sample_5351	None
+m.sample_5352	None
+m.sample_5353	None
+m.sample_5354	None
+m.sample_5355	None
+m.sample_5356	None
+m.sample_5357	None
+m.sample_5358	None
+m.sample_5359	None
+m.sample_5360	None
+m.sample_5361	None
+m.sample_5362	None
+m.sample_5363	None
+m.sample_5364	None
+m.sample_5365	None
+m.sample_5366	None
+m.sample_5367	None
+m.sample_5368	None
+m.sample_5369	None
+m.sample_5370	None
+m.sample_5371	None
+m.sample_5372	None
+m.sample_5373	None
+m.sample_5374	None
+m.sample_5375	None
+m.sample_5376	None
+m.sample_5377	None
+m.sample_5378	None
+m.sample_5379	None
+m.sample_5380	Little Moments
+m.sample_5381	None
+m.sample_5382	None
+m.sample_5383	Film Score Composer
+m.sample_5384	None
+m.sample_5385	None
+m.sample_5386	None
+m.sample_5387	None
+m.sample_5388	None
+m.sample_5389	None
+m.sample_5390	None
+m.sample_5391	None
+m.sample_5392	None
+m.sample_5393	None
+m.sample_5394	None
+m.sample_5395	None
+m.sample_5396	None
+m.sample_5397	None
+m.sample_5398	None
+m.sample_5399	Wrapped Around
+m.sample_5400	None
+m.sample_5401	None
+m.sample_5402	None
+m.sample_5403	None
+m.sample_5404	None
+m.sample_5405	None
+m.sample_5406	None
+m.sample_5407	None
+m.sample_5408	None
+m.sample_5409	None
+m.sample_5410	None
+m.sample_5411	None
+m.sample_5412	None
+m.sample_5413	None
+m.sample_5414	None
+m.sample_5415	None
+m.sample_5416	Two People Fell in Love
+m.sample_5417	None
+m.sample_5418	None
+m.sample_5419	None
+m.sample_5420	None
+m.sample_5421	None
+m.sample_5422	None
+m.sample_5423	None
+m.sample_5424	None
+m.sample_5425	None
+m.sample_5426	None
+m.sample_5427	None
+m.sample_5428	None
+m.sample_5429	None
+m.sample_5430	None
+m.sample_5431	None
+m.sample_5432	None
+m.sample_5433	None
+m.sample_5434	None
+m.sample_5435	None
+m.sample_5436	None
+m.sample_5437	None
+m.sample_5438	None
+m.sample_5439	None
+m.sample_5440	None
+m.sample_5441	None
+m.sample_5442	None
+m.sample_5443	None
+m.sample_5444	SCTE & VT
+m.sample_5445	None
+m.sample_5446	WKPS
+m.sample_5447	None
+m.sample_5448	None
+m.sample_5449	None
+m.sample_5450	None
+m.sample_5451	None
+m.sample_5452	None
+m.sample_5453	None
+m.sample_5454	None
+m.sample_5455	None
+m.sample_5456	None
+m.sample_5457	None
+m.sample_5458	None
+m.sample_5459	He Didn't Have to Be
+m.sample_5460	None
+m.sample_5461	None
+m.sample_5462	None
+m.sample_5463	None
+m.sample_5464	None
+m.sample_5465	None
+m.sample_5466	None
+m.sample_5467	None
+m.sample_5468	None
+m.sample_5469	None
+m.sample_5470	None
+m.sample_5471	None
+m.sample_5472	None
+m.sample_5473	None
+m.sample_5474	None
+m.sample_5475	None
+m.sample_5476	None
+m.sample_5477	None
+m.sample_5478	None
+m.sample_5479	None
+m.sample_5480	None
+m.sample_5481	None
+m.sample_5482	None
+m.sample_5483	None
+m.sample_5484	Mud on the Tires
+m.sample_5485	None
+m.sample_5486	None
+m.sample_5487	None
+m.sample_5488	None
+m.sample_5489	None
+m.sample_5490	None
+m.sample_5491	None
+m.sample_5492	None
+m.sample_5493	None
+m.sample_5494	None
+m.sample_5495	None
+m.sample_5496	None
+m.sample_5497	None
+m.sample_5498	None
+m.sample_5499	None
+m.sample_5500	None
+m.sample_5501	None
+m.sample_5502	None
+m.sample_5503	None
+m.sample_5504	I'm Still a Guy
+m.sample_5505	None
+m.sample_5506	None
+m.sample_5507	None
+m.sample_5508	Mud on the Tires (song)
+m.sample_5509	Then (song)
+m.sample_5510	This Is Country Music (song)
+m.sample_5511	None
+m.sample_5512	None
+m.sample_5513	We Danced
+m.sample_5514	None
+m.sample_5515	None
+m.sample_5516	None
+m.sample_5517	None
+m.sample_5518	None
+m.sample_5519	None
+m.sample_5520	None
+m.sample_5521	None
+m.sample_5522	None
+m.sample_5523	Mandolin
+m.sample_5524	None
+m.sample_5525	None
+m.sample_5526	None
+m.sample_5527	None
+m.sample_5528	None
+m.sample_5529	None
+m.sample_5530	None
+m.sample_5531	None
+m.sample_5532	None
+m.sample_5533	None
+m.sample_5534	None
+m.sample_5535	None
+m.sample_5536	None
+m.sample_5537	None
+m.sample_5538	None
+m.sample_5539	None
+m.sample_5540	None
+m.sample_5541	None
+m.sample_5542	None
+m.sample_5543	None
+m.sample_5544	None
+m.sample_5545	None
+m.sample_5546	Organization
+m.sample_5547	None
+m.sample_5548	None
+m.sample_5549	None
+m.sample_5550	None
+m.sample_5551	None
+m.sample_5552	None
+m.sample_5553	None
+m.sample_5554	None
+m.sample_5555	None
+m.sample_5556	None
+m.sample_5557	Who Needs Pictures
+m.sample_5558	None
+m.sample_5559	None
+m.sample_5560	None
+m.sample_5561	None
+m.sample_5562	None
+m.sample_5563	None
+m.sample_5564	None
+m.sample_5565	None
+m.sample_5566	None
+m.sample_5567	None
